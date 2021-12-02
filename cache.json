@@ -112,6 +112,103 @@
           "title": "有名映画の照明ライティング術を真上から図解したアカウントが教科書レベル"
         }
       ]
+    },
+    {
+      "title": "コリス",
+      "feedUrl": "http://coliss.com/feed",
+      "siteUrl": "https://coliss.com",
+      "articles": [
+        {
+          "id": "https://coliss.com/?p=34614",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/build-websites/operation/css/css-tricks-dark-futuristic-web3-look.html",
+          "publishedOn": "2021-12-02T00:36:20.000Z",
+          "wordCount": 1124,
+          "title": "UIデザインの最近のトレンド、近未来的なかっこいいグラデーションを実装するCSSのテクニック"
+        },
+        {
+          "id": "https://coliss.com/?p=34923",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/freebies/font-ai-to-shiro-no-yukiguni.html",
+          "publishedOn": "2021-12-01T00:36:20.000Z",
+          "wordCount": 257,
+          "title": "新作の日本語フォント「藍と白のゆきぐに」がリリース！ 無料版もあるのが嬉しい、ロゴタイプみたいなかわいいフォント"
+        },
+        {
+          "id": "https://coliss.com/?p=34433",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/build-websites/operation/css/clever-sticky-footer-technique.html",
+          "publishedOn": "2021-11-30T00:36:18.000Z",
+          "wordCount": 559,
+          "title": "この実装方法は巧い！ コンテンツが少ない量でもフッタを一番下に配置するCSSのテクニック"
+        },
+        {
+          "id": "https://coliss.com/?p=34771",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/products/kindle-sale-bnn-20211129.html",
+          "publishedOn": "2021-11-29T00:36:48.000Z",
+          "wordCount": 750,
+          "title": "良書がたくさん安い！ ビー・エヌ・エヌ社の年に一度の貴重なセールが開催、Web制作・デザイン・イラスト関連のKindle本がお買い得です"
+        },
+        {
+          "id": "https://coliss.com/?p=34043",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/book-review/isbn-9784802613453.html",
+          "publishedOn": "2021-11-26T00:36:18.000Z",
+          "wordCount": 426,
+          "title": "なんとなく色を決めてない？「けっきょく、よはく。」から続くシリーズ待望の第4弾がついに発売！ 配色に着目したデザイン書「いろいろな、いろ。」"
+        },
+        {
+          "id": "https://coliss.com/?p=34162",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/build-websites/operation/css/useful-layouts-using-modern-css.html",
+          "publishedOn": "2021-11-25T00:36:43.000Z",
+          "wordCount": 2138,
+          "title": "モダンCSSでよく使用されるレイアウトを実装するまとめ"
+        },
+        {
+          "id": "https://coliss.com/?p=34610",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/build-websites/operation/css/html-forms-library-herotofu.html",
+          "publishedOn": "2021-11-24T00:36:04.000Z",
+          "wordCount": 415,
+          "title": "CSSでフォームの実装に悩んだら！ さまざまなフレームワークで実装されたフォームのライブラリ -HeroTofu"
+        },
+        {
+          "id": "https://coliss.com/?p=34475",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/products/kindle-sale-20211122.html",
+          "publishedOn": "2021-11-22T00:36:33.000Z",
+          "wordCount": 1991,
+          "title": "Kindleブラックフライデーの大規模セールが開催！ Web制作・デザイン・イラスト関連のセール対象本がすごすぎる"
+        },
+        {
+          "id": "https://coliss.com/?p=33064",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/book-review/isbn-9784862465177.html",
+          "publishedOn": "2021-11-19T00:36:14.000Z",
+          "wordCount": 403,
+          "title": "CSSの難しさが分かるようになった人にお勧めの解説書、さまざまなレイアウトを実装する再利用性を向上させるCSSの設計方法 -Every Layout"
+        },
+        {
+          "id": "https://coliss.com/?p=33909",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/build-websites/operation/css/media-queries-probably-dont-need.html",
+          "publishedOn": "2021-11-18T00:36:36.000Z",
+          "wordCount": 626,
+          "title": "CSSでメディアクエリはもう必要ないかも -メディアクエリなしで実装するテクニックのまとめ"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.3"
