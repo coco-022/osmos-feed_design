@@ -15,6 +15,103 @@
           "title": "PixiJSで加工する！リアルタイム・クリエイティブカメラ"
         }
       ]
+    },
+    {
+      "title": "PhotoshopVIP",
+      "feedUrl": "http://photoshopvip.net/feed",
+      "siteUrl": "https://photoshopvip.net",
+      "articles": [
+        {
+          "id": "https://photoshopvip.net/?p=132462",
+          "author": "vipcrew",
+          "description": "商用利用可能で、「使える」ヴィンテー素材1000個以上を揃えたお得な素材集「The Versatile Vintage Toolkit For Creatives」が、2週間の期間限定セールを行っています。 […]\nまとめ買いでお得！商用OKなレトロ、ヴィンテージ素材が96％OFFのスーパーセール中はPhotoshopVIPで公開された投稿です。",
+          "link": "https://photoshopvip.net/132462",
+          "publishedOn": "2021-12-02T03:22:43.000Z",
+          "wordCount": 313,
+          "title": "まとめ買いでお得！商用OKなレトロ、ヴィンテージ素材が96％OFFのスーパーセール中"
+        },
+        {
+          "id": "https://photoshopvip.net/?p=132410",
+          "author": "vipcrew",
+          "description": "海外サイト DesignModo で公開された Top Web Design & UI Trends for 2022 より許可をもらい、翻訳転載しています。   2022年のウェブデザ […]\n2022年はこれだ！注目のWebデザイン人気トレンド16個まとめはPhotoshopVIPで公開された投稿です。",
+          "link": "https://photoshopvip.net/132410",
+          "publishedOn": "2021-12-01T07:20:18.000Z",
+          "wordCount": 461,
+          "title": "2022年はこれだ！注目のWebデザイン人気トレンド16個まとめ"
+        },
+        {
+          "id": "https://photoshopvip.net/?p=132344",
+          "author": "vipcrew",
+          "description": "この記事では、フォントえらびに迷ってしまったときに確認したい、注目の最新フリーフォントをまとめてご紹介します。   普段づかいにも適したシンプルな書体から、トレンドを取り入れた人気スタイルまで幅広 […]\nワクワクする注目の最新フリーフォント34個まとめ 2021年11月度はPhotoshopVIPで公開された投稿です。",
+          "link": "https://photoshopvip.net/132344",
+          "publishedOn": "2021-11-29T08:55:01.000Z",
+          "wordCount": 375,
+          "title": "ワクワクする注目の最新フリーフォント34個まとめ 2021年11月度"
+        },
+        {
+          "id": "https://photoshopvip.net/?p=132273",
+          "author": "vipcrew",
+          "description": "グラフィックデザイナー、ウェブプロフェッショナル、クリエーター、フォトグラファー、フリーランサーなどを対象とした、2021年のブラックフライデーとサイバーマンデーのお買い得なセール情報をまとめています。 & […]\n【ブラックフライデー＆サイバーマンデー2021】クリエイター注目のお買い得セール情報まとめはPhotoshopVIPで公開された投稿です。",
+          "link": "https://photoshopvip.net/132273",
+          "publishedOn": "2021-11-24T13:59:45.000Z",
+          "wordCount": 660,
+          "title": "【ブラックフライデー＆サイバーマンデー2021】クリエイター注目のお買い得セール情報まとめ"
+        },
+        {
+          "id": "https://photoshopvip.net/?p=132219",
+          "author": "vipcrew",
+          "description": "この記事では、Webデザイン制作を楽にする最新オンラインツール43個をまとめてご紹介します。   コピペで利用できるお手軽CSSツールやSVGツール、コード知識不要のノーコードツール、色に困ったと […]\nわずかな時間で驚くほどWeb制作がはかどる最新オンラインツール43個まとめはPhotoshopVIPで公開された投稿です。",
+          "link": "https://photoshopvip.net/132219",
+          "publishedOn": "2021-11-22T12:31:31.000Z",
+          "wordCount": 377,
+          "title": "わずかな時間で驚くほどWeb制作がはかどる最新オンラインツール43個まとめ"
+        },
+        {
+          "id": "https://photoshopvip.net/?p=132189",
+          "author": "vipcrew",
+          "description": "デザイン制作で特に重要なフォントは、たくさんコレクションしているというひとも多いでしょう。   しかし、企業向けのブランディングや販売用の商用ライセンスにも対応したフォントとなると数は限られてしま […]\n現場で役立つ10万円分のおしゃれな最新フォントが97％オフの大セール中はPhotoshopVIPで公開された投稿です。",
+          "link": "https://photoshopvip.net/132189",
+          "publishedOn": "2021-11-19T05:34:02.000Z",
+          "wordCount": 285,
+          "title": "現場で役立つ10万円分のおしゃれな最新フォントが97％オフの大セール中"
+        },
+        {
+          "id": "https://photoshopvip.net/?p=132171",
+          "author": "vipcrew",
+          "description": "ほんのり影がついたようなドロップシャドウは、「浮いている」ような立体感を演出できる、ウェブサイトでは欠かせないデザイン要素のひとつです。   ドロップシャドウの使い方によって、デザインでユーザーを […]\n【CSS】box-shadowでリアルな影を作成できる便利ツールまとめはPhotoshopVIPで公開された投稿です。",
+          "link": "https://photoshopvip.net/132171",
+          "publishedOn": "2021-11-17T07:30:47.000Z",
+          "wordCount": 261,
+          "title": "【CSS】box-shadowでリアルな影を作成できる便利ツールまとめ"
+        },
+        {
+          "id": "https://photoshopvip.net/?p=132156",
+          "author": "vipcrew",
+          "description": "メタバース（ネット上の仮想世界)の話題で、3Dグラフィックへの注目が高まっているのかもしれません。   1400以上の3Dアイコンを揃えた無料素材集3D Iconsが公開されていたので、今回はご紹 […]\n完全無料の3Dアイコン1,400個がパブリックドメインで登場 3D IconsはPhotoshopVIPで公開された投稿です。",
+          "link": "https://photoshopvip.net/132156",
+          "publishedOn": "2021-11-16T11:21:13.000Z",
+          "wordCount": 174,
+          "title": "完全無料の3Dアイコン1,400個がパブリックドメインで登場 3D Icons"
+        },
+        {
+          "id": "https://photoshopvip.net/?p=132144",
+          "author": "vipcrew",
+          "description": "先日、コピペで利用できるCSSボタンスタイルを多数公開中の便利サイトをご紹介しましたが、また新しいサービスが公開されています。   クリックひとつでコピペできるだけでなく、気に入ったボタンはHTM […]\n決定版?!50個のCSSボタンを一発コピペ、自分好みにカスタマイズできるCSSButtons.ioはPhotoshopVIPで公開された投稿です。",
+          "link": "https://photoshopvip.net/132144",
+          "publishedOn": "2021-11-15T09:51:58.000Z",
+          "wordCount": 138,
+          "title": "決定版?!50個のCSSボタンを一発コピペ、自分好みにカスタマイズできるCSSButtons.io"
+        },
+        {
+          "id": "https://photoshopvip.net/?p=132124",
+          "author": "vipcrew",
+          "description": "あの有名映画のワンシーンが、どのように照明を当てて撮影されたのか、真上から図解したInstagramアカウントが有益すぎると話題となっています。   実写撮影の照明技師のひとはもちろん、シネマティ […]\n有名映画の照明ライティング術を真上から図解したアカウントが教科書レベルはPhotoshopVIPで公開された投稿です。",
+          "link": "https://photoshopvip.net/132124",
+          "publishedOn": "2021-11-11T10:38:17.000Z",
+          "wordCount": 152,
+          "title": "有名映画の照明ライティング術を真上から図解したアカウントが教科書レベル"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.3"
