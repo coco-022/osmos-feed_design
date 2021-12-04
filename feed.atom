@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coco-022.github.io/osmos-feed_design/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-03T00:16:06.850Z</updated>
+    <updated>2021-12-04T00:16:31.156Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://coco-022.github.io/osmos-feed_design/index.html"/>
     <link rel="self" href="https://coco-022.github.io/osmos-feed_design/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[世界一のパッケージを決める！ペントアワード2021受賞作品まとめ]]></title>
+        <id>https://photoshopvip.net/?p=132496</id>
+        <link href="https://photoshopvip.net/132496"/>
+        <updated>2021-12-03T09:13:35.000Z</updated>
+        <summary type="html"><![CDATA[2007年にベルギーで設立されて以来、今年で15回目を迎えたペントアワード（Pentawards）。   包装パッケージデザインの制作やマーケティングに関係している人なら、国籍を問わず、すべての人 […]
+世界一のパッケージを決める！ペントアワード2021受賞作品まとめはPhotoshopVIPで公開された投稿です。]]></summary>
+        <author>
+            <name>vipcrew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今まで間違っていたこともこれでよく分かる！ 書き出しで心をつかむ執筆術を学べる解説書 -「書き出し」で釣りあげろ]]></title>
+        <id>https://coliss.com/?p=34731</id>
+        <link href="https://coliss.com/articles/book-review/isbn-9784845921058.html"/>
+        <updated>2021-12-03T00:36:37.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プログラミングの幅を広げよう！一段上のPromise活用テクニック]]></title>
+        <id>https://ics.media/entry/211203/</id>
+        <link href="https://ics.media/entry/211203/"/>
+        <updated>2021-12-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[記事は ics.media へアクセスしてご覧ください。
+記事を読む]]></summary>
+        <author>
+            <name>ICS MEDIA</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[まとめ買いでお得！商用OKなレトロ、ヴィンテージ素材が96％OFFのスーパーセール中]]></title>
         <id>https://photoshopvip.net/?p=132462</id>

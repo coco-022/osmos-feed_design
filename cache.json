@@ -6,6 +6,15 @@
       "siteUrl": "https://ics.media/",
       "articles": [
         {
+          "id": "https://ics.media/entry/211203/",
+          "author": null,
+          "description": "記事は ics.media へアクセスしてご覧ください。\n記事を読む",
+          "link": "https://ics.media/entry/211203/",
+          "publishedOn": "2021-12-02T15:00:00.000Z",
+          "wordCount": 782,
+          "title": "プログラミングの幅を広げよう！一段上のPromise活用テクニック"
+        },
+        {
           "id": "https://ics.media/entry/211118/",
           "author": null,
           "description": "記事は ics.media へアクセスしてご覧ください。\n記事を読む",
@@ -21,6 +30,15 @@
       "feedUrl": "http://photoshopvip.net/feed",
       "siteUrl": "https://photoshopvip.net",
       "articles": [
+        {
+          "id": "https://photoshopvip.net/?p=132496",
+          "author": "vipcrew",
+          "description": "2007年にベルギーで設立されて以来、今年で15回目を迎えたペントアワード（Pentawards）。   包装パッケージデザインの制作やマーケティングに関係している人なら、国籍を問わず、すべての人 […]\n世界一のパッケージを決める！ペントアワード2021受賞作品まとめはPhotoshopVIPで公開された投稿です。",
+          "link": "https://photoshopvip.net/132496",
+          "publishedOn": "2021-12-03T09:13:35.000Z",
+          "wordCount": 445,
+          "title": "世界一のパッケージを決める！ペントアワード2021受賞作品まとめ"
+        },
         {
           "id": "https://photoshopvip.net/?p=132462",
           "author": "vipcrew",
@@ -118,6 +136,15 @@
       "feedUrl": "http://coliss.com/feed",
       "siteUrl": "https://coliss.com",
       "articles": [
+        {
+          "id": "https://coliss.com/?p=34731",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/book-review/isbn-9784845921058.html",
+          "publishedOn": "2021-12-03T00:36:37.000Z",
+          "wordCount": 335,
+          "title": "今まで間違っていたこともこれでよく分かる！ 書き出しで心をつかむ執筆術を学べる解説書 -「書き出し」で釣りあげろ"
+        },
         {
           "id": "https://coliss.com/?p=34614",
           "author": "コリス🥦",
