@@ -31,6 +31,15 @@
       "siteUrl": "https://photoshopvip.net",
       "articles": [
         {
+          "id": "https://photoshopvip.net/?p=132545",
+          "author": "vipcrew",
+          "description": "この記事では、これから2022年に注目したいグラフィックデザインの最新トレンド12個をピックアップしています。   2022年は、懐かしい「ノスタルジック、レトロ」がテーマになるでしょう。1960 […]\nレトロが鍵！2022年注目のグラフィックデザイン最新トレンド12個まとめはPhotoshopVIPで公開された投稿です。",
+          "link": "https://photoshopvip.net/132545",
+          "publishedOn": "2021-12-06T07:04:24.000Z",
+          "wordCount": 168,
+          "title": "レトロが鍵！2022年注目のグラフィックデザイン最新トレンド12個まとめ"
+        },
+        {
           "id": "https://photoshopvip.net/?p=132496",
           "author": "vipcrew",
           "description": "2007年にベルギーで設立されて以来、今年で15回目を迎えたペントアワード（Pentawards）。   包装パッケージデザインの制作やマーケティングに関係している人なら、国籍を問わず、すべての人 […]\n世界一のパッケージを決める！ペントアワード2021受賞作品まとめはPhotoshopVIPで公開された投稿です。",
@@ -136,6 +145,15 @@
       "feedUrl": "http://coliss.com/feed",
       "siteUrl": "https://coliss.com",
       "articles": [
+        {
+          "id": "https://coliss.com/?p=35031",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/build-websites/operation/javascript/powerful-positioning-primitives-floating-ui.html",
+          "publishedOn": "2021-12-06T00:36:07.000Z",
+          "wordCount": 524,
+          "title": "WebサイトのUIにさまざまなフローティング要素を実装するためのJavaScriptのライブラリ -Floating UI"
+        },
         {
           "id": "https://coliss.com/?p=34731",
           "author": "コリス🥦",
