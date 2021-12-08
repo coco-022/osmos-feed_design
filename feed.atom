@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coco-022.github.io/osmos-feed_design/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-07T00:17:02.672Z</updated>
+    <updated>2021-12-08T00:17:03.002Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://coco-022.github.io/osmos-feed_design/index.html"/>
     <link rel="self" href="https://coco-022.github.io/osmos-feed_design/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Gridでposition: sticky;のスティッキーが効かないときの原因とその対応方法]]></title>
+        <id>https://coliss.com/?p=34390</id>
+        <link href="https://coliss.com/articles/build-websites/operation/css/position-sticky-with-css-grid.html"/>
+        <updated>2021-12-07T00:36:10.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[レトロが鍵！2022年注目のグラフィックデザイン最新トレンド12個まとめ]]></title>
         <id>https://photoshopvip.net/?p=132545</id>
