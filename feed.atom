@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coco-022.github.io/osmos-feed_design/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-08T00:17:03.002Z</updated>
+    <updated>2021-12-09T00:16:30.741Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://coco-022.github.io/osmos-feed_design/index.html"/>
     <link rel="self" href="https://coco-022.github.io/osmos-feed_design/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SFレトロを極める！商用OKなデザイン素材14万円分が期間限定3,200円に]]></title>
+        <id>https://photoshopvip.net/?p=132569</id>
+        <link href="https://photoshopvip.net/132569"/>
+        <updated>2021-12-08T10:27:45.000Z</updated>
+        <summary type="html"><![CDATA[世界で人気となっている、トレンド感満載のレトロフューチャーなデザイン素材をずらり揃えた素材集「The Versatile Vintage Toolkit For Creatives」が、2週間の期間限定セー […]
+SFレトロを極める！商用OKなデザイン素材14万円分が期間限定3,200円にはPhotoshopVIPで公開された投稿です。]]></summary>
+        <author>
+            <name>vipcrew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トレンド感満載！ レトロフューチャーなデザイン素材約14.5万円分が、98％オフの約3,271円で購入できる期間限定セール]]></title>
+        <id>https://coliss.com/?p=35034</id>
+        <link href="https://coliss.com/articles/products/designcuts-20211208.html"/>
+        <updated>2021-12-08T00:36:10.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[商用OKな手描きブラシ無料フォント83個まとめ【5年熟成の秘密レシピ】]]></title>
+        <id>https://photoshopvip.net/?p=116931</id>
+        <link href="https://photoshopvip.net/116931"/>
+        <updated>2021-12-07T07:09:21.000Z</updated>
+        <summary type="html"><![CDATA[この記事では、商用利用できる筆ブラシの手書きフリーフォント素材をまとめています。   直近5年間のあいだに公開されたブラシ無料フォントに絞り、商用利用できる素材のみをピックアップし、トレンドに合っ […]
+商用OKな手描きブラシ無料フォント83個まとめ【5年熟成の秘密レシピ】はPhotoshopVIPで公開された投稿です。]]></summary>
+        <author>
+            <name>vipcrew</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS Gridでposition: sticky;のスティッキーが効かないときの原因とその対応方法]]></title>
         <id>https://coliss.com/?p=34390</id>
