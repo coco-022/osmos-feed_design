@@ -31,6 +31,24 @@
       "siteUrl": "https://photoshopvip.net",
       "articles": [
         {
+          "id": "https://photoshopvip.net/?p=96473",
+          "author": "vipcrew",
+          "description": "この記事は、2019年12月10日に公開してから再編集、2年ぶりのアップデートを行いました。新しいフリー素材を加え、サービスが終了しているものは削除し、現在合計53個の無料クリスマス素材を紹介しています。  […]\nめっちゃ使える！クリスマスデザインの最強フリー素材53個まとめ【改訂版】はPhotoshopVIPで公開された投稿です。",
+          "link": "https://photoshopvip.net/96473",
+          "publishedOn": "2021-12-09T23:43:53.000Z",
+          "wordCount": 600,
+          "title": "めっちゃ使える！クリスマスデザインの最強フリー素材53個まとめ【改訂版】"
+        },
+        {
+          "id": "https://photoshopvip.net/?p=132585",
+          "author": "vipcrew",
+          "description": "あらゆるデザインの色を指定するときに、色見本帳として利用されているPantone（パントン）社が、2022年の流行カラー「カラー・オブ・ザ・イヤー（英: Color of the Year）」、「ベリー・ペ […]\n2022年の色が決定！未来を感じる「ベリー・ペリ Very Peri」パントンから発表はPhotoshopVIPで公開された投稿です。",
+          "link": "https://photoshopvip.net/132585",
+          "publishedOn": "2021-12-09T05:44:47.000Z",
+          "wordCount": 278,
+          "title": "2022年の色が決定！未来を感じる「ベリー・ペリ Very Peri」パントンから発表"
+        },
+        {
           "id": "https://photoshopvip.net/?p=132569",
           "author": "vipcrew",
           "description": "世界で人気となっている、トレンド感満載のレトロフューチャーなデザイン素材をずらり揃えた素材集「The Versatile Vintage Toolkit For Creatives」が、2週間の期間限定セー […]\nSFレトロを極める！商用OKなデザイン素材14万円分が期間限定3,200円にはPhotoshopVIPで公開された投稿です。",
@@ -163,6 +181,24 @@
       "feedUrl": "http://coliss.com/feed",
       "siteUrl": "https://coliss.com",
       "articles": [
+        {
+          "id": "https://coliss.com/?p=35015",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/build-websites/operation/design/color-of-the-year-2022-lavender-very-peri.html",
+          "publishedOn": "2021-12-09T04:09:35.000Z",
+          "wordCount": 378,
+          "title": "2022年のトレンドカラーはラベンダー「ベリーペリ（Very Peri）」、HTMLのコードは「#6667ab」"
+        },
+        {
+          "id": "https://coliss.com/?p=34729",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/build-websites/operation/css/my-custom-css-reset.html",
+          "publishedOn": "2021-12-09T00:36:31.000Z",
+          "wordCount": 1139,
+          "title": "モダンCSSリセットを徹底解説、最近のデバイス・モダンブラウザの仕様に対応"
+        },
         {
           "id": "https://coliss.com/?p=35034",
           "author": "コリス🥦",
