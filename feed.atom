@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coco-022.github.io/osmos-feed_design/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-10T00:16:17.499Z</updated>
+    <updated>2021-12-11T00:15:12.049Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://coco-022.github.io/osmos-feed_design/index.html"/>
     <link rel="self" href="https://coco-022.github.io/osmos-feed_design/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[プレゼンや打ち合わせの資料づくりに重宝する一冊！ データや数字の見せ方、最適なフォントなど資料のデザインに役立つ -見やすい資料のデザイン図鑑]]></title>
+        <id>https://coliss.com/?p=34443</id>
+        <link href="https://coliss.com/articles/book-review/isbn-9784295012856.html"/>
+        <updated>2021-12-10T00:36:02.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[めっちゃ使える！クリスマスデザインの最強フリー素材53個まとめ【改訂版】]]></title>
         <id>https://photoshopvip.net/?p=96473</id>
@@ -15,6 +25,17 @@
 めっちゃ使える！クリスマスデザインの最強フリー素材53個まとめ【改訂版】はPhotoshopVIPで公開された投稿です。]]></summary>
         <author>
             <name>vipcrew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マイクロインタラクションからクリエイティブ表現まで！Tween24.jsを使った演出表現]]></title>
+        <id>https://ics.media/entry/211209/</id>
+        <link href="https://ics.media/entry/211209/"/>
+        <updated>2021-12-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[記事は ics.media へアクセスしてご覧ください。
+記事を読む]]></summary>
+        <author>
+            <name>ICS MEDIA</name>
         </author>
     </entry>
     <entry>
@@ -349,17 +370,6 @@ SFレトロを極める！商用OKなデザイン素材14万円分が期間限�
         <updated>2021-11-15T09:51:58.000Z</updated>
         <summary type="html"><![CDATA[先日、コピペで利用できるCSSボタンスタイルを多数公開中の便利サイトをご紹介しましたが、また新しいサービスが公開されています。   クリックひとつでコピペできるだけでなく、気に入ったボタンはHTM […]
 決定版?!50個のCSSボタンを一発コピペ、自分好みにカスタマイズできるCSSButtons.ioはPhotoshopVIPで公開された投稿です。]]></summary>
-        <author>
-            <name>vipcrew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有名映画の照明ライティング術を真上から図解したアカウントが教科書レベル]]></title>
-        <id>https://photoshopvip.net/?p=132124</id>
-        <link href="https://photoshopvip.net/132124"/>
-        <updated>2021-11-11T10:38:17.000Z</updated>
-        <summary type="html"><![CDATA[あの有名映画のワンシーンが、どのように照明を当てて撮影されたのか、真上から図解したInstagramアカウントが有益すぎると話題となっています。   実写撮影の照明技師のひとはもちろん、シネマティ […]
-有名映画の照明ライティング術を真上から図解したアカウントが教科書レベルはPhotoshopVIPで公開された投稿です。]]></summary>
         <author>
             <name>vipcrew</name>
         </author>

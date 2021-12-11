@@ -6,6 +6,15 @@
       "siteUrl": "https://ics.media/",
       "articles": [
         {
+          "id": "https://ics.media/entry/211209/",
+          "author": null,
+          "description": "記事は ics.media へアクセスしてご覧ください。\n記事を読む",
+          "link": "https://ics.media/entry/211209/",
+          "publishedOn": "2021-12-09T15:00:00.000Z",
+          "wordCount": 860,
+          "title": "マイクロインタラクションからクリエイティブ表現まで！Tween24.jsを使った演出表現"
+        },
+        {
           "id": "https://ics.media/entry/211203/",
           "author": null,
           "description": "記事は ics.media へアクセスしてご覧ください。\n記事を読む",
@@ -164,15 +173,6 @@
           "publishedOn": "2021-11-15T09:51:58.000Z",
           "wordCount": 138,
           "title": "決定版?!50個のCSSボタンを一発コピペ、自分好みにカスタマイズできるCSSButtons.io"
-        },
-        {
-          "id": "https://photoshopvip.net/?p=132124",
-          "author": "vipcrew",
-          "description": "あの有名映画のワンシーンが、どのように照明を当てて撮影されたのか、真上から図解したInstagramアカウントが有益すぎると話題となっています。   実写撮影の照明技師のひとはもちろん、シネマティ […]\n有名映画の照明ライティング術を真上から図解したアカウントが教科書レベルはPhotoshopVIPで公開された投稿です。",
-          "link": "https://photoshopvip.net/132124",
-          "publishedOn": "2021-11-11T10:38:17.000Z",
-          "wordCount": 152,
-          "title": "有名映画の照明ライティング術を真上から図解したアカウントが教科書レベル"
         }
       ]
     },
@@ -181,6 +181,15 @@
       "feedUrl": "http://coliss.com/feed",
       "siteUrl": "https://coliss.com",
       "articles": [
+        {
+          "id": "https://coliss.com/?p=34443",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/book-review/isbn-9784295012856.html",
+          "publishedOn": "2021-12-10T00:36:02.000Z",
+          "wordCount": 389,
+          "title": "プレゼンや打ち合わせの資料づくりに重宝する一冊！ データや数字の見せ方、最適なフォントなど資料のデザインに役立つ -見やすい資料のデザイン図鑑"
+        },
         {
           "id": "https://coliss.com/?p=35015",
           "author": "コリス🥦",
