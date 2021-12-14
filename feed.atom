@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coco-022.github.io/osmos-feed_design/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-13T00:16:38.237Z</updated>
+    <updated>2021-12-14T00:16:42.232Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://coco-022.github.io/osmos-feed_design/index.html"/>
     <link rel="self" href="https://coco-022.github.io/osmos-feed_design/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソシム社大感謝祭😂 Kindleセールが開催！ 人気のデザイン書・Web制作の解説書が55％オフで超お買い得です]]></title>
+        <id>https://coliss.com/?p=35009</id>
+        <link href="https://coliss.com/articles/products/kindle-sales-202112-socym.html"/>
+        <updated>2021-12-13T00:36:34.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[プレゼンや打ち合わせの資料づくりに重宝する一冊！ データや数字の見せ方、最適なフォントなど資料のデザインに役立つ -見やすい資料のデザイン図鑑]]></title>
         <id>https://coliss.com/?p=34443</id>
