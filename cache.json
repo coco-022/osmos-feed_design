@@ -155,15 +155,6 @@
           "publishedOn": "2021-11-19T05:34:02.000Z",
           "wordCount": 285,
           "title": "現場で役立つ10万円分のおしゃれな最新フォントが97％オフの大セール中"
-        },
-        {
-          "id": "https://photoshopvip.net/?p=132171",
-          "author": "vipcrew",
-          "description": "ほんのり影がついたようなドロップシャドウは、「浮いている」ような立体感を演出できる、ウェブサイトでは欠かせないデザイン要素のひとつです。   ドロップシャドウの使い方によって、デザインでユーザーを […]\n【CSS】box-shadowでリアルな影を作成できる便利ツールまとめはPhotoshopVIPで公開された投稿です。",
-          "link": "https://photoshopvip.net/132171",
-          "publishedOn": "2021-11-17T07:30:47.000Z",
-          "wordCount": 261,
-          "title": "【CSS】box-shadowでリアルな影を作成できる便利ツールまとめ"
         }
       ]
     },
@@ -172,6 +163,15 @@
       "feedUrl": "http://coliss.com/feed",
       "siteUrl": "https://coliss.com",
       "articles": [
+        {
+          "id": "https://coliss.com/?p=35459",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/freebies/japanese-free-fonts-dec-2021.html",
+          "publishedOn": "2021-12-16T00:36:55.000Z",
+          "wordCount": 1503,
+          "title": "新しい日本語フォントがたくさんリリースされてる！ 2021年、日本語の新作フリーフォントのまとめ"
+        },
         {
           "id": "https://coliss.com/?p=35131",
           "author": "コリス🥦",

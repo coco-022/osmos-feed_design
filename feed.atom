@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coco-022.github.io/osmos-feed_design/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-16T00:16:19.898Z</updated>
+    <updated>2021-12-17T00:17:30.958Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://coco-022.github.io/osmos-feed_design/index.html"/>
     <link rel="self" href="https://coco-022.github.io/osmos-feed_design/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新しい日本語フォントがたくさんリリースされてる！ 2021年、日本語の新作フリーフォントのまとめ]]></title>
+        <id>https://coliss.com/?p=35459</id>
+        <link href="https://coliss.com/articles/freebies/japanese-free-fonts-dec-2021.html"/>
+        <updated>2021-12-16T00:36:55.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[プロのUIデザイナーに学ぶ！UIとUXの印象がよくなるデザインの知識とテクニックのまとめ vol.9]]></title>
         <id>https://coliss.com/?p=35131</id>
@@ -380,17 +390,6 @@ SFレトロを極める！商用OKなデザイン素材14万円分が期間限�
 記事を読む]]></summary>
         <author>
             <name>ICS MEDIA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【CSS】box-shadowでリアルな影を作成できる便利ツールまとめ]]></title>
-        <id>https://photoshopvip.net/?p=132171</id>
-        <link href="https://photoshopvip.net/132171"/>
-        <updated>2021-11-17T07:30:47.000Z</updated>
-        <summary type="html"><![CDATA[ほんのり影がついたようなドロップシャドウは、「浮いている」ような立体感を演出できる、ウェブサイトでは欠かせないデザイン要素のひとつです。   ドロップシャドウの使い方によって、デザインでユーザーを […]
-【CSS】box-shadowでリアルな影を作成できる便利ツールまとめはPhotoshopVIPで公開された投稿です。]]></summary>
-        <author>
-            <name>vipcrew</name>
         </author>
     </entry>
 </feed>
