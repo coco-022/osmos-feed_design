@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coco-022.github.io/osmos-feed_design/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-17T00:17:30.958Z</updated>
+    <updated>2021-12-18T00:16:45.994Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://coco-022.github.io/osmos-feed_design/index.html"/>
     <link rel="self" href="https://coco-022.github.io/osmos-feed_design/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【総まとめ】2021年公開のすごいIllustratorチュートリアル、作り方厳選まとめ]]></title>
+        <id>https://photoshopvip.net/?p=132691</id>
+        <link href="https://photoshopvip.net/132691"/>
+        <updated>2021-12-17T10:34:18.000Z</updated>
+        <summary type="html"><![CDATA[当サイトでは、Illustratorの新しい機能テクニックをつかった最新チュートリアル、作り方を定期的にまとめて紹介しています。   この記事では、2021年のあいだに公開された、特に確認しておき […]
+【総まとめ】2021年公開のすごいIllustratorチュートリアル、作り方厳選まとめはPhotoshopVIPで公開された投稿です。]]></summary>
+        <author>
+            <name>vipcrew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ロゴをデザインする時、使う時に知っておきたい知識がまとめられた即買いの一冊 -要点で学ぶ、ロゴの法則150]]></title>
+        <id>https://coliss.com/?p=35139</id>
+        <link href="https://coliss.com/articles/book-review/isbn-9784802512039.html"/>
+        <updated>2021-12-17T00:36:36.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe XD 待望の動画再生機能が登場！ビデオの再生とLottieの再生の使い方]]></title>
+        <id>https://ics.media/entry/211217/</id>
+        <link href="https://ics.media/entry/211217/"/>
+        <updated>2021-12-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[記事は ics.media へアクセスしてご覧ください。
+記事を読む]]></summary>
+        <author>
+            <name>ICS MEDIA</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新しい日本語フォントがたくさんリリースされてる！ 2021年、日本語の新作フリーフォントのまとめ]]></title>
         <id>https://coliss.com/?p=35459</id>
@@ -369,27 +401,6 @@ SFレトロを極める！商用OKなデザイン素材14万円分が期間限�
         <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
         <author>
             <name>コリス🥦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSSでメディアクエリはもう必要ないかも -メディアクエリなしで実装するテクニックのまとめ]]></title>
-        <id>https://coliss.com/?p=33909</id>
-        <link href="https://coliss.com/articles/build-websites/operation/css/media-queries-probably-dont-need.html"/>
-        <updated>2021-11-18T00:36:36.000Z</updated>
-        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
-        <author>
-            <name>コリス🥦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PixiJSで加工する！リアルタイム・クリエイティブカメラ]]></title>
-        <id>https://ics.media/entry/211118/</id>
-        <link href="https://ics.media/entry/211118/"/>
-        <updated>2021-11-17T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[記事は ics.media へアクセスしてご覧ください。
-記事を読む]]></summary>
-        <author>
-            <name>ICS MEDIA</name>
         </author>
     </entry>
 </feed>

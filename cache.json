@@ -6,6 +6,15 @@
       "siteUrl": "https://ics.media/",
       "articles": [
         {
+          "id": "https://ics.media/entry/211217/",
+          "author": null,
+          "description": "記事は ics.media へアクセスしてご覧ください。\n記事を読む",
+          "link": "https://ics.media/entry/211217/",
+          "publishedOn": "2021-12-16T15:00:00.000Z",
+          "wordCount": 95,
+          "title": "Adobe XD 待望の動画再生機能が登場！ビデオの再生とLottieの再生の使い方"
+        },
+        {
           "id": "https://ics.media/entry/211209/",
           "author": null,
           "description": "記事は ics.media へアクセスしてご覧ください。\n記事を読む",
@@ -22,15 +31,6 @@
           "publishedOn": "2021-12-02T15:00:00.000Z",
           "wordCount": 782,
           "title": "プログラミングの幅を広げよう！一段上のPromise活用テクニック"
-        },
-        {
-          "id": "https://ics.media/entry/211118/",
-          "author": null,
-          "description": "記事は ics.media へアクセスしてご覧ください。\n記事を読む",
-          "link": "https://ics.media/entry/211118/",
-          "publishedOn": "2021-11-17T15:00:00.000Z",
-          "wordCount": 338,
-          "title": "PixiJSで加工する！リアルタイム・クリエイティブカメラ"
         }
       ]
     },
@@ -39,6 +39,15 @@
       "feedUrl": "http://photoshopvip.net/feed",
       "siteUrl": "https://photoshopvip.net",
       "articles": [
+        {
+          "id": "https://photoshopvip.net/?p=132691",
+          "author": "vipcrew",
+          "description": "当サイトでは、Illustratorの新しい機能テクニックをつかった最新チュートリアル、作り方を定期的にまとめて紹介しています。   この記事では、2021年のあいだに公開された、特に確認しておき […]\n【総まとめ】2021年公開のすごいIllustratorチュートリアル、作り方厳選まとめはPhotoshopVIPで公開された投稿です。",
+          "link": "https://photoshopvip.net/132691",
+          "publishedOn": "2021-12-17T10:34:18.000Z",
+          "wordCount": 232,
+          "title": "【総まとめ】2021年公開のすごいIllustratorチュートリアル、作り方厳選まとめ"
+        },
         {
           "id": "https://photoshopvip.net/?p=132663",
           "author": "vipcrew",
@@ -163,6 +172,15 @@
       "feedUrl": "http://coliss.com/feed",
       "siteUrl": "https://coliss.com",
       "articles": [
+        {
+          "id": "https://coliss.com/?p=35139",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/book-review/isbn-9784802512039.html",
+          "publishedOn": "2021-12-17T00:36:36.000Z",
+          "wordCount": 378,
+          "title": "ロゴをデザインする時、使う時に知っておきたい知識がまとめられた即買いの一冊 -要点で学ぶ、ロゴの法則150"
+        },
         {
           "id": "https://coliss.com/?p=35459",
           "author": "コリス🥦",
@@ -342,15 +360,6 @@
           "publishedOn": "2021-11-19T00:36:14.000Z",
           "wordCount": 403,
           "title": "CSSの難しさが分かるようになった人にお勧めの解説書、さまざまなレイアウトを実装する再利用性を向上させるCSSの設計方法 -Every Layout"
-        },
-        {
-          "id": "https://coliss.com/?p=33909",
-          "author": "コリス🥦",
-          "description": "...記事の続きを読む",
-          "link": "https://coliss.com/articles/build-websites/operation/css/media-queries-probably-dont-need.html",
-          "publishedOn": "2021-11-18T00:36:36.000Z",
-          "wordCount": 626,
-          "title": "CSSでメディアクエリはもう必要ないかも -メディアクエリなしで実装するテクニックのまとめ"
         }
       ]
     }
