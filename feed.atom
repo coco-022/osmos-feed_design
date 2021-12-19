@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coco-022.github.io/osmos-feed_design/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-18T00:16:45.994Z</updated>
+    <updated>2021-12-19T00:18:37.969Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://coco-022.github.io/osmos-feed_design/index.html"/>
     <link rel="self" href="https://coco-022.github.io/osmos-feed_design/feed.atom"/>
@@ -377,27 +377,6 @@ SFレトロを極める！商用OKなデザイン素材14万円分が期間限�
         <id>https://coliss.com/?p=34475</id>
         <link href="https://coliss.com/articles/products/kindle-sale-20211122.html"/>
         <updated>2021-11-22T00:36:33.000Z</updated>
-        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
-        <author>
-            <name>コリス🥦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[現場で役立つ10万円分のおしゃれな最新フォントが97％オフの大セール中]]></title>
-        <id>https://photoshopvip.net/?p=132189</id>
-        <link href="https://photoshopvip.net/132189"/>
-        <updated>2021-11-19T05:34:02.000Z</updated>
-        <summary type="html"><![CDATA[デザイン制作で特に重要なフォントは、たくさんコレクションしているというひとも多いでしょう。   しかし、企業向けのブランディングや販売用の商用ライセンスにも対応したフォントとなると数は限られてしま […]
-現場で役立つ10万円分のおしゃれな最新フォントが97％オフの大セール中はPhotoshopVIPで公開された投稿です。]]></summary>
-        <author>
-            <name>vipcrew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSSの難しさが分かるようになった人にお勧めの解説書、さまざまなレイアウトを実装する再利用性を向上させるCSSの設計方法 -Every Layout]]></title>
-        <id>https://coliss.com/?p=33064</id>
-        <link href="https://coliss.com/articles/book-review/isbn-9784862465177.html"/>
-        <updated>2021-11-19T00:36:14.000Z</updated>
         <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
         <author>
             <name>コリス🥦</name>
