@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coco-022.github.io/osmos-feed_design/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-20T00:17:46.932Z</updated>
+    <updated>2021-12-21T00:18:33.049Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://coco-022.github.io/osmos-feed_design/index.html"/>
     <link rel="self" href="https://coco-022.github.io/osmos-feed_design/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kindle年末年始の特大セールが開催！ デザイン・Web制作・イラスト関連の良書が、最安値更新で超お買い得です]]></title>
+        <id>https://coliss.com/?p=35558</id>
+        <link href="https://coliss.com/articles/products/kindle-sales-20211220.html"/>
+        <updated>2021-12-20T00:36:52.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【総まとめ】2021年公開のすごいIllustratorチュートリアル、作り方厳選まとめ]]></title>
         <id>https://photoshopvip.net/?p=132691</id>
