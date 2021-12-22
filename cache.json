@@ -40,6 +40,15 @@
       "siteUrl": "https://photoshopvip.net",
       "articles": [
         {
+          "id": "https://photoshopvip.net/?p=132717",
+          "author": "vipcrew",
+          "description": "この記事では、2021年に公開された便利なWebオンラインツール・ベスト100個+をまとめてご紹介します。   定期的にリストアップしている最新オンラインツールまとめ記事では、2021年にかけて合 […]\nWeb制作を変える！2021年の便利オンラインツール・ベスト100選はPhotoshopVIPで公開された投稿です。",
+          "link": "https://photoshopvip.net/132717",
+          "publishedOn": "2021-12-21T04:36:30.000Z",
+          "wordCount": 1059,
+          "title": "Web制作を変える！2021年の便利オンラインツール・ベスト100選"
+        },
+        {
           "id": "https://photoshopvip.net/?p=132691",
           "author": "vipcrew",
           "description": "当サイトでは、Illustratorの新しい機能テクニックをつかった最新チュートリアル、作り方を定期的にまとめて紹介しています。   この記事では、2021年のあいだに公開された、特に確認しておき […]\n【総まとめ】2021年公開のすごいIllustratorチュートリアル、作り方厳選まとめはPhotoshopVIPで公開された投稿です。",
@@ -163,6 +172,15 @@
       "feedUrl": "http://coliss.com/feed",
       "siteUrl": "https://coliss.com",
       "articles": [
+        {
+          "id": "https://coliss.com/?p=35502",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/build-websites/operation/css/tailwind-css-cheat-sheet.html",
+          "publishedOn": "2021-12-21T00:36:42.000Z",
+          "wordCount": 412,
+          "title": "これは便利！ Tailwind CSSのチートシート、すべてのクラスとそのプロパティ・値を参照および検索もできる優れもの"
+        },
         {
           "id": "https://coliss.com/?p=35558",
           "author": "コリス🥦",
@@ -342,15 +360,6 @@
           "publishedOn": "2021-11-24T00:36:04.000Z",
           "wordCount": 415,
           "title": "CSSでフォームの実装に悩んだら！ さまざまなフレームワークで実装されたフォームのライブラリ -HeroTofu"
-        },
-        {
-          "id": "https://coliss.com/?p=34475",
-          "author": "コリス🥦",
-          "description": "...記事の続きを読む",
-          "link": "https://coliss.com/articles/products/kindle-sale-20211122.html",
-          "publishedOn": "2021-11-22T00:36:33.000Z",
-          "wordCount": 1991,
-          "title": "Kindleブラックフライデーの大規模セールが開催！ Web制作・デザイン・イラスト関連のセール対象本がすごすぎる"
         }
       ]
     }
