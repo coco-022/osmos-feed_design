@@ -40,6 +40,15 @@
       "siteUrl": "https://photoshopvip.net",
       "articles": [
         {
+          "id": "https://photoshopvip.net/?p=132769",
+          "author": "vipcrew",
+          "description": "当サイトでは、毎月新しく公開されたフリーフォント素材をまとめており、2021年の間に合計291個の新作フリーフォントを紹介してきました。   この記事では、2021年に公開された素材の中から、商用 […]\n商用可で完全無料！2021年公開のフリーフォント素材100個総まとめはPhotoshopVIPで公開された投稿です。",
+          "link": "https://photoshopvip.net/132769",
+          "publishedOn": "2021-12-22T12:19:02.000Z",
+          "wordCount": 677,
+          "title": "商用可で完全無料！2021年公開のフリーフォント素材100個総まとめ"
+        },
+        {
           "id": "https://photoshopvip.net/?p=132717",
           "author": "vipcrew",
           "description": "この記事では、2021年に公開された便利なWebオンラインツール・ベスト100個+をまとめてご紹介します。   定期的にリストアップしている最新オンラインツールまとめ記事では、2021年にかけて合 […]\nWeb制作を変える！2021年の便利オンラインツール・ベスト100選はPhotoshopVIPで公開された投稿です。",
@@ -155,15 +164,6 @@
           "publishedOn": "2021-11-24T13:59:45.000Z",
           "wordCount": 660,
           "title": "【ブラックフライデー＆サイバーマンデー2021】クリエイター注目のお買い得セール情報まとめ"
-        },
-        {
-          "id": "https://photoshopvip.net/?p=132219",
-          "author": "vipcrew",
-          "description": "この記事では、Webデザイン制作を楽にする最新オンラインツール43個をまとめてご紹介します。   コピペで利用できるお手軽CSSツールやSVGツール、コード知識不要のノーコードツール、色に困ったと […]\nわずかな時間で驚くほどWeb制作がはかどる最新オンラインツール43個まとめはPhotoshopVIPで公開された投稿です。",
-          "link": "https://photoshopvip.net/132219",
-          "publishedOn": "2021-11-22T12:31:31.000Z",
-          "wordCount": 377,
-          "title": "わずかな時間で驚くほどWeb制作がはかどる最新オンラインツール43個まとめ"
         }
       ]
     },
@@ -172,6 +172,15 @@
       "feedUrl": "http://coliss.com/feed",
       "siteUrl": "https://coliss.com",
       "articles": [
+        {
+          "id": "https://coliss.com/?p=35505",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/build-websites/operation/design/ui-ux-micro-tips-best-of-2021.html",
+          "publishedOn": "2021-12-22T00:36:51.000Z",
+          "wordCount": 443,
+          "title": "2021年、最も注目されたUIデザインのテクニックのまとめ"
+        },
         {
           "id": "https://coliss.com/?p=35502",
           "author": "コリス🥦",
