@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coco-022.github.io/osmos-feed_design/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-23T00:18:01.817Z</updated>
+    <updated>2021-12-24T00:16:57.490Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://coco-022.github.io/osmos-feed_design/index.html"/>
     <link rel="self" href="https://coco-022.github.io/osmos-feed_design/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022年用、日本語のフリーフォント570種類のまとめ -商用サイトだけでなく紙や同人誌などの利用も明記]]></title>
+        <id>https://coliss.com/?p=26455</id>
+        <link href="https://coliss.com/articles/freebies/japanese-free-fonts.html"/>
+        <updated>2021-12-23T00:26:26.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[商用可で完全無料！2021年公開のフリーフォント素材100個総まとめ]]></title>
         <id>https://photoshopvip.net/?p=132769</id>
@@ -401,16 +411,6 @@ SFレトロを極める！商用OKなデザイン素材14万円分が期間限�
 【ブラックフライデー＆サイバーマンデー2021】クリエイター注目のお買い得セール情報まとめはPhotoshopVIPで公開された投稿です。]]></summary>
         <author>
             <name>vipcrew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSSでフォームの実装に悩んだら！ さまざまなフレームワークで実装されたフォームのライブラリ -HeroTofu]]></title>
-        <id>https://coliss.com/?p=34610</id>
-        <link href="https://coliss.com/articles/build-websites/operation/css/html-forms-library-herotofu.html"/>
-        <updated>2021-11-24T00:36:04.000Z</updated>
-        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
-        <author>
-            <name>コリス🥦</name>
         </author>
     </entry>
 </feed>
