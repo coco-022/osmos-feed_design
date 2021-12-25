@@ -40,6 +40,15 @@
       "siteUrl": "https://photoshopvip.net",
       "articles": [
         {
+          "id": "https://photoshopvip.net/?p=132813",
+          "author": "vipcrew",
+          "description": "当サイトでは、Photoshopの新しい機能テクニックをつかった最新チュートリアル、作り方を定期的にまとめて紹介しています。   この記事では、2021年のあいだに公開された、特に確認しておきたい […]\n【総まとめ】2021年公開のすごいPhotoshopチュートリアル、作り方厳選まとめはPhotoshopVIPで公開された投稿です。",
+          "link": "https://photoshopvip.net/132813",
+          "publishedOn": "2021-12-24T03:23:43.000Z",
+          "wordCount": 326,
+          "title": "【総まとめ】2021年公開のすごいPhotoshopチュートリアル、作り方厳選まとめ"
+        },
+        {
           "id": "https://photoshopvip.net/?p=132769",
           "author": "vipcrew",
           "description": "当サイトでは、毎月新しく公開されたフリーフォント素材をまとめており、2021年の間に合計291個の新作フリーフォントを紹介してきました。   この記事では、2021年に公開された素材の中から、商用 […]\n商用可で完全無料！2021年公開のフリーフォント素材100個総まとめはPhotoshopVIPで公開された投稿です。",
@@ -155,15 +164,6 @@
           "publishedOn": "2021-11-29T08:55:01.000Z",
           "wordCount": 375,
           "title": "ワクワクする注目の最新フリーフォント34個まとめ 2021年11月度"
-        },
-        {
-          "id": "https://photoshopvip.net/?p=132273",
-          "author": "vipcrew",
-          "description": "グラフィックデザイナー、ウェブプロフェッショナル、クリエーター、フォトグラファー、フリーランサーなどを対象とした、2021年のブラックフライデーとサイバーマンデーのお買い得なセール情報をまとめています。 & […]\n【ブラックフライデー＆サイバーマンデー2021】クリエイター注目のお買い得セール情報まとめはPhotoshopVIPで公開された投稿です。",
-          "link": "https://photoshopvip.net/132273",
-          "publishedOn": "2021-11-24T13:59:45.000Z",
-          "wordCount": 660,
-          "title": "【ブラックフライデー＆サイバーマンデー2021】クリエイター注目のお買い得セール情報まとめ"
         }
       ]
     },
@@ -172,6 +172,15 @@
       "feedUrl": "http://coliss.com/feed",
       "siteUrl": "https://coliss.com",
       "articles": [
+        {
+          "id": "https://coliss.com/?p=35017",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/book-review/isbn-9784839977665.html",
+          "publishedOn": "2021-12-24T00:36:48.000Z",
+          "wordCount": 390,
+          "title": "今までのCSS本とはかなり異なる！ 現在主流の実装・設計・管理方法を徹底解説した良書 -ざっくりつかむ CSS設計"
+        },
         {
           "id": "https://coliss.com/?p=26455",
           "author": "コリス🥦",
@@ -360,15 +369,6 @@
           "publishedOn": "2021-11-26T00:36:18.000Z",
           "wordCount": 426,
           "title": "なんとなく色を決めてない？「けっきょく、よはく。」から続くシリーズ待望の第4弾がついに発売！ 配色に着目したデザイン書「いろいろな、いろ。」"
-        },
-        {
-          "id": "https://coliss.com/?p=34162",
-          "author": "コリス🥦",
-          "description": "...記事の続きを読む",
-          "link": "https://coliss.com/articles/build-websites/operation/css/useful-layouts-using-modern-css.html",
-          "publishedOn": "2021-11-25T00:36:43.000Z",
-          "wordCount": 2138,
-          "title": "モダンCSSでよく使用されるレイアウトを実装するまとめ"
         }
       ]
     }
