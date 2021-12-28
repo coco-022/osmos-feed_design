@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coco-022.github.io/osmos-feed_design/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-27T00:18:03.637Z</updated>
+    <updated>2021-12-28T00:17:53.765Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://coco-022.github.io/osmos-feed_design/index.html"/>
     <link rel="self" href="https://coco-022.github.io/osmos-feed_design/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【総まとめ】2021年話題になった世界のベストWebデザイン厳選50個]]></title>
+        <id>https://photoshopvip.net/?p=132828</id>
+        <link href="https://photoshopvip.net/132828"/>
+        <updated>2021-12-27T07:19:57.000Z</updated>
+        <summary type="html"><![CDATA[当サイトでは、定期的に新しく公開された最新Webサイトデザインをまとめています。今回は、2021年のベスト・オブ・Webデザイン50個を厳選、ピックアップしご紹介します。   配色えらびやレイアウ […]
+【総まとめ】2021年話題になった世界のベストWebデザイン厳選50個はPhotoshopVIPで公開された投稿です。]]></summary>
+        <author>
+            <name>vipcrew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年、Web制作・デザインに役立つ記事の総まとめ]]></title>
+        <id>https://coliss.com/?p=35012</id>
+        <link href="https://coliss.com/articles/digress/coliss-best-in-2021.html"/>
+        <updated>2021-12-27T00:36:11.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【総まとめ】2021年公開のすごいPhotoshopチュートリアル、作り方厳選まとめ]]></title>
         <id>https://photoshopvip.net/?p=132813</id>
