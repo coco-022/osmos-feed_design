@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coco-022.github.io/osmos-feed_design/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-28T00:17:53.765Z</updated>
+    <updated>2021-12-29T00:17:06.381Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://coco-022.github.io/osmos-feed_design/index.html"/>
     <link rel="self" href="https://coco-022.github.io/osmos-feed_design/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【商用可＆新作】23万円相当のおしゃれ英語フォント160個、1書体20円の年末セール中]]></title>
+        <id>https://photoshopvip.net/?p=132850</id>
+        <link href="https://photoshopvip.net/132850"/>
+        <updated>2021-12-28T12:14:57.000Z</updated>
+        <summary type="html"><![CDATA[無料ダウンロードできるフリーフォントも充実していますが、プレミアムフォント最大のメリットは、その使い勝手の良さでしょう。   異なる太さ・ウェイトに対応し、合字リガチャや代替フォントによる柔軟なデ […]
+【商用可＆新作】23万円相当のおしゃれ英語フォント160個、1書体20円の年末セール中はPhotoshopVIPで公開された投稿です。]]></summary>
+        <author>
+            <name>vipcrew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[これがフロントエンドで話題になった記事！ ICS MEDIAの2021年]]></title>
+        <id>https://ics.media/entry/211228/</id>
+        <link href="https://ics.media/entry/211228/"/>
+        <updated>2021-12-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[記事は ics.media へアクセスしてご覧ください。
+記事を読む]]></summary>
+        <author>
+            <name>ICS MEDIA</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【総まとめ】2021年話題になった世界のベストWebデザイン厳選50個]]></title>
         <id>https://photoshopvip.net/?p=132828</id>
@@ -398,27 +420,6 @@ SFレトロを極める！商用OKなデザイン素材14万円分が期間限�
         <id>https://coliss.com/?p=34433</id>
         <link href="https://coliss.com/articles/build-websites/operation/css/clever-sticky-footer-technique.html"/>
         <updated>2021-11-30T00:36:18.000Z</updated>
-        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
-        <author>
-            <name>コリス🥦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ワクワクする注目の最新フリーフォント34個まとめ 2021年11月度]]></title>
-        <id>https://photoshopvip.net/?p=132344</id>
-        <link href="https://photoshopvip.net/132344"/>
-        <updated>2021-11-29T08:55:01.000Z</updated>
-        <summary type="html"><![CDATA[この記事では、フォントえらびに迷ってしまったときに確認したい、注目の最新フリーフォントをまとめてご紹介します。   普段づかいにも適したシンプルな書体から、トレンドを取り入れた人気スタイルまで幅広 […]
-ワクワクする注目の最新フリーフォント34個まとめ 2021年11月度はPhotoshopVIPで公開された投稿です。]]></summary>
-        <author>
-            <name>vipcrew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[良書がたくさん安い！ ビー・エヌ・エヌ社の年に一度の貴重なセールが開催、Web制作・デザイン・イラスト関連のKindle本がお買い得です]]></title>
-        <id>https://coliss.com/?p=34771</id>
-        <link href="https://coliss.com/articles/products/kindle-sale-bnn-20211129.html"/>
-        <updated>2021-11-29T00:36:48.000Z</updated>
         <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
         <author>
             <name>コリス🥦</name>

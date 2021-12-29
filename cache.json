@@ -6,6 +6,15 @@
       "siteUrl": "https://ics.media/",
       "articles": [
         {
+          "id": "https://ics.media/entry/211228/",
+          "author": null,
+          "description": "記事は ics.media へアクセスしてご覧ください。\n記事を読む",
+          "link": "https://ics.media/entry/211228/",
+          "publishedOn": "2021-12-27T15:00:00.000Z",
+          "wordCount": 214,
+          "title": "これがフロントエンドで話題になった記事！ ICS MEDIAの2021年"
+        },
+        {
           "id": "https://ics.media/entry/211217/",
           "author": null,
           "description": "記事は ics.media へアクセスしてご覧ください。\n記事を読む",
@@ -39,6 +48,15 @@
       "feedUrl": "http://photoshopvip.net/feed",
       "siteUrl": "https://photoshopvip.net",
       "articles": [
+        {
+          "id": "https://photoshopvip.net/?p=132850",
+          "author": "vipcrew",
+          "description": "無料ダウンロードできるフリーフォントも充実していますが、プレミアムフォント最大のメリットは、その使い勝手の良さでしょう。   異なる太さ・ウェイトに対応し、合字リガチャや代替フォントによる柔軟なデ […]\n【商用可＆新作】23万円相当のおしゃれ英語フォント160個、1書体20円の年末セール中はPhotoshopVIPで公開された投稿です。",
+          "link": "https://photoshopvip.net/132850",
+          "publishedOn": "2021-12-28T12:14:57.000Z",
+          "wordCount": 259,
+          "title": "【商用可＆新作】23万円相当のおしゃれ英語フォント160個、1書体20円の年末セール中"
+        },
         {
           "id": "https://photoshopvip.net/?p=132828",
           "author": "vipcrew",
@@ -164,15 +182,6 @@
           "publishedOn": "2021-12-01T07:20:18.000Z",
           "wordCount": 461,
           "title": "2022年はこれだ！注目のWebデザイン人気トレンド16個まとめ"
-        },
-        {
-          "id": "https://photoshopvip.net/?p=132344",
-          "author": "vipcrew",
-          "description": "この記事では、フォントえらびに迷ってしまったときに確認したい、注目の最新フリーフォントをまとめてご紹介します。   普段づかいにも適したシンプルな書体から、トレンドを取り入れた人気スタイルまで幅広 […]\nワクワクする注目の最新フリーフォント34個まとめ 2021年11月度はPhotoshopVIPで公開された投稿です。",
-          "link": "https://photoshopvip.net/132344",
-          "publishedOn": "2021-11-29T08:55:01.000Z",
-          "wordCount": 375,
-          "title": "ワクワクする注目の最新フリーフォント34個まとめ 2021年11月度"
         }
       ]
     },
@@ -369,15 +378,6 @@
           "publishedOn": "2021-11-30T00:36:18.000Z",
           "wordCount": 559,
           "title": "この実装方法は巧い！ コンテンツが少ない量でもフッタを一番下に配置するCSSのテクニック"
-        },
-        {
-          "id": "https://coliss.com/?p=34771",
-          "author": "コリス🥦",
-          "description": "...記事の続きを読む",
-          "link": "https://coliss.com/articles/products/kindle-sale-bnn-20211129.html",
-          "publishedOn": "2021-11-29T00:36:48.000Z",
-          "wordCount": 750,
-          "title": "良書がたくさん安い！ ビー・エヌ・エヌ社の年に一度の貴重なセールが開催、Web制作・デザイン・イラスト関連のKindle本がお買い得です"
         }
       ]
     }
