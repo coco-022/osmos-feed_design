@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coco-022.github.io/osmos-feed_design/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-29T00:17:06.381Z</updated>
+    <updated>2021-12-30T00:17:34.799Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://coco-022.github.io/osmos-feed_design/index.html"/>
     <link rel="self" href="https://coco-022.github.io/osmos-feed_design/feed.atom"/>
@@ -410,16 +410,6 @@ SFレトロを極める！商用OKなデザイン素材14万円分が期間限�
         <id>https://coliss.com/?p=34923</id>
         <link href="https://coliss.com/articles/freebies/font-ai-to-shiro-no-yukiguni.html"/>
         <updated>2021-12-01T00:36:20.000Z</updated>
-        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
-        <author>
-            <name>コリス🥦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[この実装方法は巧い！ コンテンツが少ない量でもフッタを一番下に配置するCSSのテクニック]]></title>
-        <id>https://coliss.com/?p=34433</id>
-        <link href="https://coliss.com/articles/build-websites/operation/css/clever-sticky-footer-technique.html"/>
-        <updated>2021-11-30T00:36:18.000Z</updated>
         <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
         <author>
             <name>コリス🥦</name>
