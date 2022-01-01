@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coco-022.github.io/osmos-feed_design/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-31T00:17:55.716Z</updated>
+    <updated>2022-01-01T00:17:59.933Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://coco-022.github.io/osmos-feed_design/index.html"/>
     <link rel="self" href="https://coco-022.github.io/osmos-feed_design/feed.atom"/>
@@ -371,27 +371,6 @@ SFレトロを極める！商用OKなデザイン素材14万円分が期間限�
 記事を読む]]></summary>
         <author>
             <name>ICS MEDIA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[まとめ買いでお得！商用OKなレトロ、ヴィンテージ素材が96％OFFのスーパーセール中]]></title>
-        <id>https://photoshopvip.net/?p=132462</id>
-        <link href="https://photoshopvip.net/132462"/>
-        <updated>2021-12-02T03:22:43.000Z</updated>
-        <summary type="html"><![CDATA[商用利用可能で、「使える」ヴィンテー素材1000個以上を揃えたお得な素材集「The Versatile Vintage Toolkit For Creatives」が、2週間の期間限定セールを行っています。 […]
-まとめ買いでお得！商用OKなレトロ、ヴィンテージ素材が96％OFFのスーパーセール中はPhotoshopVIPで公開された投稿です。]]></summary>
-        <author>
-            <name>vipcrew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UIデザインの最近のトレンド、近未来的なかっこいいグラデーションを実装するCSSのテクニック]]></title>
-        <id>https://coliss.com/?p=34614</id>
-        <link href="https://coliss.com/articles/build-websites/operation/css/css-tricks-dark-futuristic-web3-look.html"/>
-        <updated>2021-12-02T00:36:20.000Z</updated>
-        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
-        <author>
-            <name>コリス🥦</name>
         </author>
     </entry>
 </feed>
