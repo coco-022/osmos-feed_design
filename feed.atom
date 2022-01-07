@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coco-022.github.io/osmos-feed_design/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-06T00:18:22.841Z</updated>
+    <updated>2022-01-07T00:18:13.318Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://coco-022.github.io/osmos-feed_design/index.html"/>
     <link rel="self" href="https://coco-022.github.io/osmos-feed_design/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022年に注目しておきたい、ロゴデザインのトレンドのまとめ -Logo Design Trends 2022]]></title>
+        <id>https://coliss.com/?p=35716</id>
+        <link href="https://coliss.com/articles/build-websites/operation/design/logo-design-trends-2022.html"/>
+        <updated>2022-01-06T00:36:26.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【商用可＆新作】23万円相当のおしゃれ英語フォント160個、1書体20円の年末セール中]]></title>
         <id>https://photoshopvip.net/?p=132850</id>
@@ -273,27 +283,6 @@ Web制作を変える！2021年の便利オンラインツール・ベスト100�
         <id>https://coliss.com/?p=34729</id>
         <link href="https://coliss.com/articles/build-websites/operation/css/my-custom-css-reset.html"/>
         <updated>2021-12-09T00:36:31.000Z</updated>
-        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
-        <author>
-            <name>コリス🥦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SFレトロを極める！商用OKなデザイン素材14万円分が期間限定3,200円に]]></title>
-        <id>https://photoshopvip.net/?p=132569</id>
-        <link href="https://photoshopvip.net/132569"/>
-        <updated>2021-12-08T10:27:45.000Z</updated>
-        <summary type="html"><![CDATA[世界で人気となっている、トレンド感満載のレトロフューチャーなデザイン素材をずらり揃えた素材集「The Versatile Vintage Toolkit For Creatives」が、2週間の期間限定セー […]
-SFレトロを極める！商用OKなデザイン素材14万円分が期間限定3,200円にはPhotoshopVIPで公開された投稿です。]]></summary>
-        <author>
-            <name>vipcrew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トレンド感満載！ レトロフューチャーなデザイン素材約14.5万円分が、98％オフの約3,271円で購入できる期間限定セール]]></title>
-        <id>https://coliss.com/?p=35034</id>
-        <link href="https://coliss.com/articles/products/designcuts-20211208.html"/>
-        <updated>2021-12-08T00:36:10.000Z</updated>
         <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
         <author>
             <name>コリス🥦</name>
