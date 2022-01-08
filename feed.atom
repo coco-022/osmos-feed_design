@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coco-022.github.io/osmos-feed_design/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-07T00:18:13.318Z</updated>
+    <updated>2022-01-08T00:18:33.462Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://coco-022.github.io/osmos-feed_design/index.html"/>
     <link rel="self" href="https://coco-022.github.io/osmos-feed_design/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazonで新春セールが開催！ Adobe CC コンプリートプランが激安価格でかなりお得です]]></title>
+        <id>https://coliss.com/?p=35947</id>
+        <link href="https://coliss.com/articles/products/adobe-cc-amazon-20220107-sale.html"/>
+        <updated>2022-01-07T06:11:29.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今週末まで有料フォントが無料！カリグラフィとモダンなスタイルが融合された美しいフォント -Witter]]></title>
+        <id>https://coliss.com/?p=35881</id>
+        <link href="https://coliss.com/articles/products/witter-by-danti.html"/>
+        <updated>2022-01-07T00:36:52.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年に注目しておきたい、ロゴデザインのトレンドのまとめ -Logo Design Trends 2022]]></title>
         <id>https://coliss.com/?p=35716</id>
@@ -255,37 +275,6 @@ Web制作を変える！2021年の便利オンラインツール・ベスト100�
 記事を読む]]></summary>
         <author>
             <name>ICS MEDIA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年の色が決定！未来を感じる「ベリー・ペリ Very Peri」パントンから発表]]></title>
-        <id>https://photoshopvip.net/?p=132585</id>
-        <link href="https://photoshopvip.net/132585"/>
-        <updated>2021-12-09T05:44:47.000Z</updated>
-        <summary type="html"><![CDATA[あらゆるデザインの色を指定するときに、色見本帳として利用されているPantone（パントン）社が、2022年の流行カラー「カラー・オブ・ザ・イヤー（英: Color of the Year）」、「ベリー・ペ […]
-2022年の色が決定！未来を感じる「ベリー・ペリ Very Peri」パントンから発表はPhotoshopVIPで公開された投稿です。]]></summary>
-        <author>
-            <name>vipcrew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年のトレンドカラーはラベンダー「ベリーペリ（Very Peri）」、HTMLのコードは「#6667ab」]]></title>
-        <id>https://coliss.com/?p=35015</id>
-        <link href="https://coliss.com/articles/build-websites/operation/design/color-of-the-year-2022-lavender-very-peri.html"/>
-        <updated>2021-12-09T04:09:35.000Z</updated>
-        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
-        <author>
-            <name>コリス🥦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[モダンCSSリセットを徹底解説、最近のデバイス・モダンブラウザの仕様に対応]]></title>
-        <id>https://coliss.com/?p=34729</id>
-        <link href="https://coliss.com/articles/build-websites/operation/css/my-custom-css-reset.html"/>
-        <updated>2021-12-09T00:36:31.000Z</updated>
-        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
-        <author>
-            <name>コリス🥦</name>
         </author>
     </entry>
 </feed>
