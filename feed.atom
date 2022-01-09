@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coco-022.github.io/osmos-feed_design/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-08T00:18:33.462Z</updated>
+    <updated>2022-01-09T00:18:53.007Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://coco-022.github.io/osmos-feed_design/index.html"/>
     <link rel="self" href="https://coco-022.github.io/osmos-feed_design/feed.atom"/>
@@ -243,38 +243,6 @@ Web制作を変える！2021年の便利オンラインツール・ベスト100�
         <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
         <author>
             <name>コリス🥦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プレゼンや打ち合わせの資料づくりに重宝する一冊！ データや数字の見せ方、最適なフォントなど資料のデザインに役立つ -見やすい資料のデザイン図鑑]]></title>
-        <id>https://coliss.com/?p=34443</id>
-        <link href="https://coliss.com/articles/book-review/isbn-9784295012856.html"/>
-        <updated>2021-12-10T00:36:02.000Z</updated>
-        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
-        <author>
-            <name>コリス🥦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[めっちゃ使える！クリスマスデザインの最強フリー素材53個まとめ【改訂版】]]></title>
-        <id>https://photoshopvip.net/?p=96473</id>
-        <link href="https://photoshopvip.net/96473"/>
-        <updated>2021-12-09T23:43:53.000Z</updated>
-        <summary type="html"><![CDATA[この記事は、2019年12月10日に公開してから再編集、2年ぶりのアップデートを行いました。新しいフリー素材を加え、サービスが終了しているものは削除し、現在合計53個の無料クリスマス素材を紹介しています。  […]
-めっちゃ使える！クリスマスデザインの最強フリー素材53個まとめ【改訂版】はPhotoshopVIPで公開された投稿です。]]></summary>
-        <author>
-            <name>vipcrew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マイクロインタラクションからクリエイティブ表現まで！Tween24.jsを使った演出表現]]></title>
-        <id>https://ics.media/entry/211209/</id>
-        <link href="https://ics.media/entry/211209/"/>
-        <updated>2021-12-09T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[記事は ics.media へアクセスしてご覧ください。
-記事を読む]]></summary>
-        <author>
-            <name>ICS MEDIA</name>
         </author>
     </entry>
 </feed>
