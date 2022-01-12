@@ -31,6 +31,15 @@
       "siteUrl": "https://photoshopvip.net",
       "articles": [
         {
+          "id": "https://photoshopvip.net/?p=132931",
+          "author": "vipcrew",
+          "description": "Adobe Fontsは、ここ数年で大きく変わり、いまでは20,000以上のプロフォントをAdobe CCユーザーは無料で利用できるようになりました。   日本語フォントも定期的にアップデートされ […]\nAdobe Fontで利用可能！オススメ英語フォント厳選ベスト40【2022年版】はPhotoshopVIPで公開された投稿です。",
+          "link": "https://photoshopvip.net/132931",
+          "publishedOn": "2022-01-11T11:12:47.000Z",
+          "wordCount": 283,
+          "title": "Adobe Fontで利用可能！オススメ英語フォント厳選ベスト40【2022年版】"
+        },
+        {
           "id": "https://photoshopvip.net/?p=132850",
           "author": "vipcrew",
           "description": "無料ダウンロードできるフリーフォントも充実していますが、プレミアムフォント最大のメリットは、その使い勝手の良さでしょう。   異なる太さ・ウェイトに対応し、合字リガチャや代替フォントによる柔軟なデ […]\n【商用可＆新作】23万円相当のおしゃれ英語フォント160個、1書体20円の年末セール中はPhotoshopVIPで公開された投稿です。",
@@ -100,6 +109,15 @@
       "feedUrl": "http://coliss.com/feed",
       "siteUrl": "https://coliss.com",
       "articles": [
+        {
+          "id": "https://coliss.com/?p=35801",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/build-websites/operation/design/ui-ux-micro-tips-volume-ten.html",
+          "publishedOn": "2022-01-11T00:36:09.000Z",
+          "wordCount": 334,
+          "title": "プロのUIデザイナーに学ぶ！UIとUXの印象がよくなるデザインの知識とテクニックのまとめ vol.10"
+        },
         {
           "id": "https://coliss.com/?p=35947",
           "author": "コリス🥦",
@@ -216,15 +234,6 @@
           "publishedOn": "2021-12-14T00:36:01.000Z",
           "wordCount": 296,
           "title": "🎉 ノンデザイナーズ・デザインブックの特典PDF「ノンデザイナーでも役立つ図解の基本」が応募者全員にもらえます"
-        },
-        {
-          "id": "https://coliss.com/?p=35009",
-          "author": "コリス🥦",
-          "description": "...記事の続きを読む",
-          "link": "https://coliss.com/articles/products/kindle-sales-202112-socym.html",
-          "publishedOn": "2021-12-13T00:36:34.000Z",
-          "wordCount": 834,
-          "title": "ソシム社大感謝祭😂 Kindleセールが開催！ 人気のデザイン書・Web制作の解説書が55％オフで超お買い得です"
         }
       ]
     }

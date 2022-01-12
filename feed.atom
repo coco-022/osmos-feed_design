@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coco-022.github.io/osmos-feed_design/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-11T00:19:33.023Z</updated>
+    <updated>2022-01-12T00:19:15.465Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://coco-022.github.io/osmos-feed_design/index.html"/>
     <link rel="self" href="https://coco-022.github.io/osmos-feed_design/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Adobe Fontで利用可能！オススメ英語フォント厳選ベスト40【2022年版】]]></title>
+        <id>https://photoshopvip.net/?p=132931</id>
+        <link href="https://photoshopvip.net/132931"/>
+        <updated>2022-01-11T11:12:47.000Z</updated>
+        <summary type="html"><![CDATA[Adobe Fontsは、ここ数年で大きく変わり、いまでは20,000以上のプロフォントをAdobe CCユーザーは無料で利用できるようになりました。   日本語フォントも定期的にアップデートされ […]
+Adobe Fontで利用可能！オススメ英語フォント厳選ベスト40【2022年版】はPhotoshopVIPで公開された投稿です。]]></summary>
+        <author>
+            <name>vipcrew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プロのUIデザイナーに学ぶ！UIとUXの印象がよくなるデザインの知識とテクニックのまとめ vol.10]]></title>
+        <id>https://coliss.com/?p=35801</id>
+        <link href="https://coliss.com/articles/build-websites/operation/design/ui-ux-micro-tips-volume-ten.html"/>
+        <updated>2022-01-11T00:36:09.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazonで新春セールが開催！ Adobe CC コンプリートプランが激安価格でかなりお得です]]></title>
         <id>https://coliss.com/?p=35947</id>
@@ -230,16 +251,6 @@ Web制作を変える！2021年の便利オンラインツール・ベスト100�
         <id>https://coliss.com/?p=35316</id>
         <link href="https://coliss.com/articles/products/the-non-designers-charts-and-diagrams.html"/>
         <updated>2021-12-14T00:36:01.000Z</updated>
-        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
-        <author>
-            <name>コリス🥦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソシム社大感謝祭😂 Kindleセールが開催！ 人気のデザイン書・Web制作の解説書が55％オフで超お買い得です]]></title>
-        <id>https://coliss.com/?p=35009</id>
-        <link href="https://coliss.com/articles/products/kindle-sales-202112-socym.html"/>
-        <updated>2021-12-13T00:36:34.000Z</updated>
         <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
         <author>
             <name>コリス🥦</name>
