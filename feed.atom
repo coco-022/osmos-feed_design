@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coco-022.github.io/osmos-feed_design/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-12T00:19:15.465Z</updated>
+    <updated>2022-01-13T00:20:10.311Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://coco-022.github.io/osmos-feed_design/index.html"/>
     <link rel="self" href="https://coco-022.github.io/osmos-feed_design/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[パララックスもこれで簡単に！ HTMLやCSSを変更せずにシンプルに実装できるスクリプト -simpleParallax.js]]></title>
+        <id>https://coliss.com/?p=35799</id>
+        <link href="https://coliss.com/articles/build-websites/operation/javascript/vanilla-js-library-simpleparallax.html"/>
+        <updated>2022-01-12T00:36:20.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Adobe Fontで利用可能！オススメ英語フォント厳選ベスト40【2022年版】]]></title>
         <id>https://photoshopvip.net/?p=132931</id>
@@ -230,27 +240,6 @@ Web制作を変える！2021年の便利オンラインツール・ベスト100�
         <id>https://coliss.com/?p=35131</id>
         <link href="https://coliss.com/articles/build-websites/operation/design/ui-ux-micro-tips-volume-nine.html"/>
         <updated>2021-12-15T00:36:41.000Z</updated>
-        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
-        <author>
-            <name>コリス🥦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[その数22万超！浮世絵を無料ダウンロードできる検索サイトがすごい ukiyo-e.org]]></title>
-        <id>https://photoshopvip.net/?p=132663</id>
-        <link href="https://photoshopvip.net/132663"/>
-        <updated>2021-12-14T10:00:47.000Z</updated>
-        <summary type="html"><![CDATA[日本の伝統的な「浮世絵」への関心は非常に高く、これまでにも世界の博物館や美術館などが無料で閲覧、ダウンロードできるデジタルコレクションの一部として公開しています。   今回は、世界中に散らばった日 […]
-その数22万超！浮世絵を無料ダウンロードできる検索サイトがすごい ukiyo-e.orgはPhotoshopVIPで公開された投稿です。]]></summary>
-        <author>
-            <name>vipcrew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎉 ノンデザイナーズ・デザインブックの特典PDF「ノンデザイナーでも役立つ図解の基本」が応募者全員にもらえます]]></title>
-        <id>https://coliss.com/?p=35316</id>
-        <link href="https://coliss.com/articles/products/the-non-designers-charts-and-diagrams.html"/>
-        <updated>2021-12-14T00:36:01.000Z</updated>
         <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
         <author>
             <name>コリス🥦</name>
