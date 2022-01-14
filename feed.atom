@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coco-022.github.io/osmos-feed_design/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-13T00:20:10.311Z</updated>
+    <updated>2022-01-14T00:18:23.711Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://coco-022.github.io/osmos-feed_design/index.html"/>
     <link rel="self" href="https://coco-022.github.io/osmos-feed_design/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トトロやカオナシも！ジブリ愛が止まらないHTML/CSSスニペットまとめ]]></title>
+        <id>https://photoshopvip.net/?p=132952</id>
+        <link href="https://photoshopvip.net/132952"/>
+        <updated>2022-01-13T06:46:11.000Z</updated>
+        <summary type="html"><![CDATA[動画ストリーミング大手のNetflixが、日本とカナダ、アメリカを除く世界中でスタジオジブリ作品の配信をおこなうなど、海外でも高く評価、注目されているジブリ映画。   今回は、そんなスタジオジブリ […]
+トトロやカオナシも！ジブリ愛が止まらないHTML/CSSスニペットまとめはPhotoshopVIPで公開された投稿です。]]></summary>
+        <author>
+            <name>vipcrew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年、注目しておきたいCSSの新機能のまとめ]]></title>
+        <id>https://coliss.com/?p=35823</id>
+        <link href="https://coliss.com/articles/build-websites/operation/css/css-in-2022-new-features.html"/>
+        <updated>2022-01-13T00:36:36.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[パララックスもこれで簡単に！ HTMLやCSSを変更せずにシンプルに実装できるスクリプト -simpleParallax.js]]></title>
         <id>https://coliss.com/?p=35799</id>
@@ -230,16 +251,6 @@ Web制作を変える！2021年の便利オンラインツール・ベスト100�
         <id>https://coliss.com/?p=35459</id>
         <link href="https://coliss.com/articles/freebies/japanese-free-fonts-dec-2021.html"/>
         <updated>2021-12-16T00:36:55.000Z</updated>
-        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
-        <author>
-            <name>コリス🥦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プロのUIデザイナーに学ぶ！UIとUXの印象がよくなるデザインの知識とテクニックのまとめ vol.9]]></title>
-        <id>https://coliss.com/?p=35131</id>
-        <link href="https://coliss.com/articles/build-websites/operation/design/ui-ux-micro-tips-volume-nine.html"/>
-        <updated>2021-12-15T00:36:41.000Z</updated>
         <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
         <author>
             <name>コリス🥦</name>
