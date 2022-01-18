@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coco-022.github.io/osmos-feed_design/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-17T00:18:19.187Z</updated>
+    <updated>2022-01-18T00:19:26.552Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://coco-022.github.io/osmos-feed_design/index.html"/>
     <link rel="self" href="https://coco-022.github.io/osmos-feed_design/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[時短でラクラク！効果がグッと出る最新人気デザイン素材集が限定セール中]]></title>
+        <id>https://photoshopvip.net/?p=132965</id>
+        <link href="https://photoshopvip.net/132965"/>
+        <updated>2022-01-17T10:48:34.000Z</updated>
+        <summary type="html"><![CDATA[あらゆる案件に携わるデザイナーは、使えるデザインの引き出しをできるだけ多く持っておきたいもの。   期間限定のデザイン素材集「The Ultimate Library Of Hidden Gems […]
+時短でラクラク！効果がグッと出る最新人気デザイン素材集が限定セール中はPhotoshopVIPで公開された投稿です。]]></summary>
+        <author>
+            <name>vipcrew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年、Webデザインの新しいトレンド「クレイモーフィズム」のスタイルをさまざまな要素に適用できるCSS]]></title>
+        <id>https://coliss.com/?p=36047</id>
+        <link href="https://coliss.com/articles/build-websites/operation/css/claymorphism-to-any-html-element.html"/>
+        <updated>2022-01-17T00:36:25.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[これはかなりオススメの良書！ 最近のWebデザインのアイデア・作り方がよく分かる -Webデザイン良質見本帳]]></title>
         <id>https://coliss.com/?p=35483</id>

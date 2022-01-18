@@ -22,6 +22,15 @@
       "siteUrl": "https://photoshopvip.net",
       "articles": [
         {
+          "id": "https://photoshopvip.net/?p=132965",
+          "author": "vipcrew",
+          "description": "あらゆる案件に携わるデザイナーは、使えるデザインの引き出しをできるだけ多く持っておきたいもの。   期間限定のデザイン素材集「The Ultimate Library Of Hidden Gems […]\n時短でラクラク！効果がグッと出る最新人気デザイン素材集が限定セール中はPhotoshopVIPで公開された投稿です。",
+          "link": "https://photoshopvip.net/132965",
+          "publishedOn": "2022-01-17T10:48:34.000Z",
+          "wordCount": 271,
+          "title": "時短でラクラク！効果がグッと出る最新人気デザイン素材集が限定セール中"
+        },
+        {
           "id": "https://photoshopvip.net/?p=132952",
           "author": "vipcrew",
           "description": "動画ストリーミング大手のNetflixが、日本とカナダ、アメリカを除く世界中でスタジオジブリ作品の配信をおこなうなど、海外でも高く評価、注目されているジブリ映画。   今回は、そんなスタジオジブリ […]\nトトロやカオナシも！ジブリ愛が止まらないHTML/CSSスニペットまとめはPhotoshopVIPで公開された投稿です。",
@@ -91,6 +100,15 @@
       "feedUrl": "http://coliss.com/feed",
       "siteUrl": "https://coliss.com",
       "articles": [
+        {
+          "id": "https://coliss.com/?p=36047",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/build-websites/operation/css/claymorphism-to-any-html-element.html",
+          "publishedOn": "2022-01-17T00:36:25.000Z",
+          "wordCount": 377,
+          "title": "2022年、Webデザインの新しいトレンド「クレイモーフィズム」のスタイルをさまざまな要素に適用できるCSS"
+        },
         {
           "id": "https://coliss.com/?p=35483",
           "author": "コリス🥦",
