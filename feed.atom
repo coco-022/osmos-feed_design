@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coco-022.github.io/osmos-feed_design/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-18T00:19:26.552Z</updated>
+    <updated>2022-01-19T00:16:53.355Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://coco-022.github.io/osmos-feed_design/index.html"/>
     <link rel="self" href="https://coco-022.github.io/osmos-feed_design/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2021年にCodepenで話題！コピペ可なHTMLスニペット ベスト100発表]]></title>
+        <id>https://photoshopvip.net/?p=133000</id>
+        <link href="https://photoshopvip.net/133000"/>
+        <updated>2022-01-18T04:19:58.000Z</updated>
+        <summary type="html"><![CDATA[HTMLなどのコードをブラウザ上で確認ができ、公開や共有もできるなど、世界中のデベロッパーが愛用するCodepen。   この記事は、2021年に特に人気の高かったHTMLスニペットをランキング形 […]
+2021年にCodepenで話題！コピペ可なHTMLスニペット ベスト100発表はPhotoshopVIPで公開された投稿です。]]></summary>
+        <author>
+            <name>vipcrew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プロのUIデザイナーに学ぶ！UIとUXの印象がよくなるデザインの知識とテクニックのまとめ vol.11]]></title>
+        <id>https://coliss.com/?p=35898</id>
+        <link href="https://coliss.com/articles/build-websites/operation/design/ui-ux-micro-tips-volume-eleven.html"/>
+        <updated>2022-01-18T00:36:43.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[時短でラクラク！効果がグッと出る最新人気デザイン素材集が限定セール中]]></title>
         <id>https://photoshopvip.net/?p=132965</id>
@@ -230,16 +251,6 @@ Web制作を変える！2021年の便利オンラインツール・ベスト100�
         <id>https://coliss.com/?p=35502</id>
         <link href="https://coliss.com/articles/build-websites/operation/css/tailwind-css-cheat-sheet.html"/>
         <updated>2021-12-21T00:36:42.000Z</updated>
-        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
-        <author>
-            <name>コリス🥦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kindle年末年始の特大セールが開催！ デザイン・Web制作・イラスト関連の良書が、最安値更新で超お買い得です]]></title>
-        <id>https://coliss.com/?p=35558</id>
-        <link href="https://coliss.com/articles/products/kindle-sales-20211220.html"/>
-        <updated>2021-12-20T00:36:52.000Z</updated>
         <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
         <author>
             <name>コリス🥦</name>

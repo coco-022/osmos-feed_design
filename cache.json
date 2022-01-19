@@ -22,6 +22,15 @@
       "siteUrl": "https://photoshopvip.net",
       "articles": [
         {
+          "id": "https://photoshopvip.net/?p=133000",
+          "author": "vipcrew",
+          "description": "HTMLなどのコードをブラウザ上で確認ができ、公開や共有もできるなど、世界中のデベロッパーが愛用するCodepen。   この記事は、2021年に特に人気の高かったHTMLスニペットをランキング形 […]\n2021年にCodepenで話題！コピペ可なHTMLスニペット ベスト100発表はPhotoshopVIPで公開された投稿です。",
+          "link": "https://photoshopvip.net/133000",
+          "publishedOn": "2022-01-18T04:19:58.000Z",
+          "wordCount": 909,
+          "title": "2021年にCodepenで話題！コピペ可なHTMLスニペット ベスト100発表"
+        },
+        {
           "id": "https://photoshopvip.net/?p=132965",
           "author": "vipcrew",
           "description": "あらゆる案件に携わるデザイナーは、使えるデザインの引き出しをできるだけ多く持っておきたいもの。   期間限定のデザイン素材集「The Ultimate Library Of Hidden Gems […]\n時短でラクラク！効果がグッと出る最新人気デザイン素材集が限定セール中はPhotoshopVIPで公開された投稿です。",
@@ -100,6 +109,15 @@
       "feedUrl": "http://coliss.com/feed",
       "siteUrl": "https://coliss.com",
       "articles": [
+        {
+          "id": "https://coliss.com/?p=35898",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/build-websites/operation/design/ui-ux-micro-tips-volume-eleven.html",
+          "publishedOn": "2022-01-18T00:36:43.000Z",
+          "wordCount": 332,
+          "title": "プロのUIデザイナーに学ぶ！UIとUXの印象がよくなるデザインの知識とテクニックのまとめ vol.11"
+        },
         {
           "id": "https://coliss.com/?p=36047",
           "author": "コリス🥦",
@@ -216,15 +234,6 @@
           "publishedOn": "2021-12-21T00:36:42.000Z",
           "wordCount": 412,
           "title": "これは便利！ Tailwind CSSのチートシート、すべてのクラスとそのプロパティ・値を参照および検索もできる優れもの"
-        },
-        {
-          "id": "https://coliss.com/?p=35558",
-          "author": "コリス🥦",
-          "description": "...記事の続きを読む",
-          "link": "https://coliss.com/articles/products/kindle-sales-20211220.html",
-          "publishedOn": "2021-12-20T00:36:52.000Z",
-          "wordCount": 1152,
-          "title": "Kindle年末年始の特大セールが開催！ デザイン・Web制作・イラスト関連の良書が、最安値更新で超お買い得です"
         }
       ]
     }
