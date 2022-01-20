@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coco-022.github.io/osmos-feed_design/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-19T00:16:53.355Z</updated>
+    <updated>2022-01-20T00:19:51.751Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://coco-022.github.io/osmos-feed_design/index.html"/>
     <link rel="self" href="https://coco-022.github.io/osmos-feed_design/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSSの新機能コンテナクエリのポリフィルがこれほど使いやすく、Googleから提供されたことは素晴らしい]]></title>
+        <id>https://coliss.com/?p=35997</id>
+        <link href="https://coliss.com/articles/build-websites/operation/css/new-container-query-polyfill.html"/>
+        <updated>2022-01-19T00:36:42.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021年にCodepenで話題！コピペ可なHTMLスニペット ベスト100発表]]></title>
         <id>https://photoshopvip.net/?p=133000</id>
@@ -230,27 +240,6 @@ Adobe Fontで利用可能！オススメ英語フォント厳選ベスト40【20
         <id>https://coliss.com/?p=35505</id>
         <link href="https://coliss.com/articles/build-websites/operation/design/ui-ux-micro-tips-best-of-2021.html"/>
         <updated>2021-12-22T00:36:51.000Z</updated>
-        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
-        <author>
-            <name>コリス🥦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web制作を変える！2021年の便利オンラインツール・ベスト100選]]></title>
-        <id>https://photoshopvip.net/?p=132717</id>
-        <link href="https://photoshopvip.net/132717"/>
-        <updated>2021-12-21T04:36:30.000Z</updated>
-        <summary type="html"><![CDATA[この記事では、2021年に公開された便利なWebオンラインツール・ベスト100個+をまとめてご紹介します。   定期的にリストアップしている最新オンラインツールまとめ記事では、2021年にかけて合 […]
-Web制作を変える！2021年の便利オンラインツール・ベスト100選はPhotoshopVIPで公開された投稿です。]]></summary>
-        <author>
-            <name>vipcrew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[これは便利！ Tailwind CSSのチートシート、すべてのクラスとそのプロパティ・値を参照および検索もできる優れもの]]></title>
-        <id>https://coliss.com/?p=35502</id>
-        <link href="https://coliss.com/articles/build-websites/operation/css/tailwind-css-cheat-sheet.html"/>
-        <updated>2021-12-21T00:36:42.000Z</updated>
         <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
         <author>
             <name>コリス🥦</name>
