@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coco-022.github.io/osmos-feed_design/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-20T00:19:51.751Z</updated>
+    <updated>2022-01-21T00:16:22.820Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://coco-022.github.io/osmos-feed_design/index.html"/>
     <link rel="self" href="https://coco-022.github.io/osmos-feed_design/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[現役デザイナー直伝！2022年に要注目のロゴデザイントレンドまとめ]]></title>
+        <id>https://photoshopvip.net/?p=133011</id>
+        <link href="https://photoshopvip.net/133011"/>
+        <updated>2022-01-20T04:21:53.000Z</updated>
+        <summary type="html"><![CDATA[海外サイト Graphic Mama Blog で公開された Logo Design Trends 2022: Bringing Back the Hype for Logotype より許可をもらい、翻訳 […]
+現役デザイナー直伝！2022年に要注目のロゴデザイントレンドまとめはPhotoshopVIPで公開された投稿です。]]></summary>
+        <author>
+            <name>vipcrew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSSによるレイアウトの崩れやおかしな挙動を解決するテクニックのまとめ -Defensive CSS]]></title>
+        <id>https://coliss.com/?p=35383</id>
+        <link href="https://coliss.com/articles/build-websites/operation/css/defensive-css.html"/>
+        <updated>2022-01-20T00:36:08.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年の最新標準！Vue 3の新しい開発体験に触れよう]]></title>
+        <id>https://ics.media/entry/220120/</id>
+        <link href="https://ics.media/entry/220120/"/>
+        <updated>2022-01-19T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[記事は ics.media へアクセスしてご覧ください。
+記事を読む]]></summary>
+        <author>
+            <name>ICS MEDIA</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSSの新機能コンテナクエリのポリフィルがこれほど使いやすく、Googleから提供されたことは素晴らしい]]></title>
         <id>https://coliss.com/?p=35997</id>
@@ -233,16 +265,6 @@ Adobe Fontで利用可能！オススメ英語フォント厳選ベスト40【20
 商用可で完全無料！2021年公開のフリーフォント素材100個総まとめはPhotoshopVIPで公開された投稿です。]]></summary>
         <author>
             <name>vipcrew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年、最も注目されたUIデザインのテクニックのまとめ]]></title>
-        <id>https://coliss.com/?p=35505</id>
-        <link href="https://coliss.com/articles/build-websites/operation/design/ui-ux-micro-tips-best-of-2021.html"/>
-        <updated>2021-12-22T00:36:51.000Z</updated>
-        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
-        <author>
-            <name>コリス🥦</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,15 @@
       "siteUrl": "https://ics.media/",
       "articles": [
         {
+          "id": "https://ics.media/entry/220120/",
+          "author": null,
+          "description": "記事は ics.media へアクセスしてご覧ください。\n記事を読む",
+          "link": "https://ics.media/entry/220120/",
+          "publishedOn": "2022-01-19T15:00:00.000Z",
+          "wordCount": 647,
+          "title": "2022年の最新標準！Vue 3の新しい開発体験に触れよう"
+        },
+        {
           "id": "https://ics.media/entry/211228/",
           "author": null,
           "description": "記事は ics.media へアクセスしてご覧ください。\n記事を読む",
@@ -21,6 +30,15 @@
       "feedUrl": "http://photoshopvip.net/feed",
       "siteUrl": "https://photoshopvip.net",
       "articles": [
+        {
+          "id": "https://photoshopvip.net/?p=133011",
+          "author": "vipcrew",
+          "description": "海外サイト Graphic Mama Blog で公開された Logo Design Trends 2022: Bringing Back the Hype for Logotype より許可をもらい、翻訳 […]\n現役デザイナー直伝！2022年に要注目のロゴデザイントレンドまとめはPhotoshopVIPで公開された投稿です。",
+          "link": "https://photoshopvip.net/133011",
+          "publishedOn": "2022-01-20T04:21:53.000Z",
+          "wordCount": 463,
+          "title": "現役デザイナー直伝！2022年に要注目のロゴデザイントレンドまとめ"
+        },
         {
           "id": "https://photoshopvip.net/?p=133000",
           "author": "vipcrew",
@@ -100,6 +118,15 @@
       "feedUrl": "http://coliss.com/feed",
       "siteUrl": "https://coliss.com",
       "articles": [
+        {
+          "id": "https://coliss.com/?p=35383",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/build-websites/operation/css/defensive-css.html",
+          "publishedOn": "2022-01-20T00:36:08.000Z",
+          "wordCount": 1254,
+          "title": "CSSによるレイアウトの崩れやおかしな挙動を解決するテクニックのまとめ -Defensive CSS"
+        },
         {
           "id": "https://coliss.com/?p=35997",
           "author": "コリス🥦",
@@ -216,15 +243,6 @@
           "publishedOn": "2021-12-23T00:26:26.000Z",
           "wordCount": 6710,
           "title": "2022年用、日本語のフリーフォント570種類のまとめ -商用サイトだけでなく紙や同人誌などの利用も明記"
-        },
-        {
-          "id": "https://coliss.com/?p=35505",
-          "author": "コリス🥦",
-          "description": "...記事の続きを読む",
-          "link": "https://coliss.com/articles/build-websites/operation/design/ui-ux-micro-tips-best-of-2021.html",
-          "publishedOn": "2021-12-22T00:36:51.000Z",
-          "wordCount": 443,
-          "title": "2021年、最も注目されたUIデザインのテクニックのまとめ"
         }
       ]
     }
