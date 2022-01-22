@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coco-022.github.io/osmos-feed_design/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-21T00:16:22.820Z</updated>
+    <updated>2022-01-22T00:17:00.518Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://coco-022.github.io/osmos-feed_design/index.html"/>
     <link rel="self" href="https://coco-022.github.io/osmos-feed_design/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Figmaの制作フロー劇的改善！超簡単な11の小技とヒントまとめ]]></title>
+        <id>https://photoshopvip.net/?p=133064</id>
+        <link href="https://photoshopvip.net/133064"/>
+        <updated>2022-01-21T10:40:11.000Z</updated>
+        <summary type="html"><![CDATA[この記事では、Figmaでのデザイン制作フローを劇的にスピードアップさせる、お手軽で簡単な小技とヒントをまとめてご紹介します。   よく利用するFigmaのショートカットや、お好みに応じて機能を追 […]
+Figmaの制作フロー劇的改善！超簡単な11の小技とヒントまとめはPhotoshopVIPで公開された投稿です。]]></summary>
+        <author>
+            <name>vipcrew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[とりあえず、素人っぽく見えないデザインのコツを教えてください！ 基本をしっかり身につけ、実践テクニックもくわしく解説されたデザイン書]]></title>
+        <id>https://coliss.com/?p=35702</id>
+        <link href="https://coliss.com/articles/book-review/isbn-9784295013174.html"/>
+        <updated>2022-01-21T00:36:33.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[現役デザイナー直伝！2022年に要注目のロゴデザイントレンドまとめ]]></title>
         <id>https://photoshopvip.net/?p=133011</id>
@@ -244,27 +265,6 @@ Adobe Fontで利用可能！オススメ英語フォント厳選ベスト40【20
         <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
         <author>
             <name>コリス🥦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年用、日本語のフリーフォント570種類のまとめ -商用サイトだけでなく紙や同人誌などの利用も明記]]></title>
-        <id>https://coliss.com/?p=26455</id>
-        <link href="https://coliss.com/articles/freebies/japanese-free-fonts.html"/>
-        <updated>2021-12-23T00:26:26.000Z</updated>
-        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
-        <author>
-            <name>コリス🥦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[商用可で完全無料！2021年公開のフリーフォント素材100個総まとめ]]></title>
-        <id>https://photoshopvip.net/?p=132769</id>
-        <link href="https://photoshopvip.net/132769"/>
-        <updated>2021-12-22T12:19:02.000Z</updated>
-        <summary type="html"><![CDATA[当サイトでは、毎月新しく公開されたフリーフォント素材をまとめており、2021年の間に合計291個の新作フリーフォントを紹介してきました。   この記事では、2021年に公開された素材の中から、商用 […]
-商用可で完全無料！2021年公開のフリーフォント素材100個総まとめはPhotoshopVIPで公開された投稿です。]]></summary>
-        <author>
-            <name>vipcrew</name>
         </author>
     </entry>
 </feed>
