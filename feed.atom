@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coco-022.github.io/osmos-feed_design/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-22T00:17:00.518Z</updated>
+    <updated>2022-01-23T00:16:46.695Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://coco-022.github.io/osmos-feed_design/index.html"/>
     <link rel="self" href="https://coco-022.github.io/osmos-feed_design/feed.atom"/>
@@ -241,27 +241,6 @@ Adobe Fontで利用可能！オススメ英語フォント厳選ベスト40【20
         <id>https://coliss.com/?p=35012</id>
         <link href="https://coliss.com/articles/digress/coliss-best-in-2021.html"/>
         <updated>2021-12-27T00:36:11.000Z</updated>
-        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
-        <author>
-            <name>コリス🥦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【総まとめ】2021年公開のすごいPhotoshopチュートリアル、作り方厳選まとめ]]></title>
-        <id>https://photoshopvip.net/?p=132813</id>
-        <link href="https://photoshopvip.net/132813"/>
-        <updated>2021-12-24T03:23:43.000Z</updated>
-        <summary type="html"><![CDATA[当サイトでは、Photoshopの新しい機能テクニックをつかった最新チュートリアル、作り方を定期的にまとめて紹介しています。   この記事では、2021年のあいだに公開された、特に確認しておきたい […]
-【総まとめ】2021年公開のすごいPhotoshopチュートリアル、作り方厳選まとめはPhotoshopVIPで公開された投稿です。]]></summary>
-        <author>
-            <name>vipcrew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今までのCSS本とはかなり異なる！ 現在主流の実装・設計・管理方法を徹底解説した良書 -ざっくりつかむ CSS設計]]></title>
-        <id>https://coliss.com/?p=35017</id>
-        <link href="https://coliss.com/articles/book-review/isbn-9784839977665.html"/>
-        <updated>2021-12-24T00:36:48.000Z</updated>
         <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
         <author>
             <name>コリス🥦</name>
