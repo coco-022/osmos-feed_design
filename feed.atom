@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coco-022.github.io/osmos-feed_design/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-23T00:16:46.695Z</updated>
+    <updated>2022-01-24T00:17:28.917Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://coco-022.github.io/osmos-feed_design/index.html"/>
     <link rel="self" href="https://coco-022.github.io/osmos-feed_design/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[クリスタでも使える高品質なブラシ素材！ Photoshopの2022年新作ブラシがAdobeから無料ダウンロードできます]]></title>
+        <id>https://coliss.com/?p=36405</id>
+        <link href="https://coliss.com/articles/build-websites/operation/design/adobe-photoshop-brush-winter-2020.html"/>
+        <updated>2022-01-23T23:08:07.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Figmaの制作フロー劇的改善！超簡単な11の小技とヒントまとめ]]></title>
         <id>https://photoshopvip.net/?p=133064</id>
