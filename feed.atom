@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coco-022.github.io/osmos-feed_design/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-25T00:18:04.369Z</updated>
+    <updated>2022-01-26T00:18:43.341Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://coco-022.github.io/osmos-feed_design/index.html"/>
     <link rel="self" href="https://coco-022.github.io/osmos-feed_design/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【2022年】デザインが映える！今どきのかわいい無料イラスト素材13選]]></title>
+        <id>https://photoshopvip.net/?p=133153</id>
+        <link href="https://photoshopvip.net/133153"/>
+        <updated>2022-01-25T03:07:36.000Z</updated>
+        <summary type="html"><![CDATA[この記事では、無料ダウンロードできる今どきのかわいいイラスト素材をまとめています。   これまでにもイラストに関して定期的にまとめていますが、今回は比較的最近公開された最新イラスト素材やライブラリ […]
+【2022年】デザインが映える！今どきのかわいい無料イラスト素材13選はPhotoshopVIPで公開された投稿です。]]></summary>
+        <author>
+            <name>vipcrew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プロのUIデザイナーに学ぶ！UIとUXの印象がよくなるデザインの知識とテクニックのまとめ vol.12]]></title>
+        <id>https://coliss.com/?p=36210</id>
+        <link href="https://coliss.com/articles/build-websites/operation/design/ui-ux-micro-tips-volume-twelve.html"/>
+        <updated>2022-01-25T00:36:10.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2022年】クリエイティブに取り入れたい注目トレンド6選（クリエイター向け／国別比較あり）]]></title>
         <id>https://photoshopvip.net/?p=133085</id>
@@ -244,27 +265,6 @@ Adobe Fontで利用可能！オススメ英語フォント厳選ベスト40【20
 記事を読む]]></summary>
         <author>
             <name>ICS MEDIA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【総まとめ】2021年話題になった世界のベストWebデザイン厳選50個]]></title>
-        <id>https://photoshopvip.net/?p=132828</id>
-        <link href="https://photoshopvip.net/132828"/>
-        <updated>2021-12-27T07:19:57.000Z</updated>
-        <summary type="html"><![CDATA[当サイトでは、定期的に新しく公開された最新Webサイトデザインをまとめています。今回は、2021年のベスト・オブ・Webデザイン50個を厳選、ピックアップしご紹介します。   配色えらびやレイアウ […]
-【総まとめ】2021年話題になった世界のベストWebデザイン厳選50個はPhotoshopVIPで公開された投稿です。]]></summary>
-        <author>
-            <name>vipcrew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年、Web制作・デザインに役立つ記事の総まとめ]]></title>
-        <id>https://coliss.com/?p=35012</id>
-        <link href="https://coliss.com/articles/digress/coliss-best-in-2021.html"/>
-        <updated>2021-12-27T00:36:11.000Z</updated>
-        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
-        <author>
-            <name>コリス🥦</name>
         </author>
     </entry>
 </feed>
