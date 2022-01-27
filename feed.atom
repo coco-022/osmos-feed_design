@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coco-022.github.io/osmos-feed_design/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-26T00:18:43.341Z</updated>
+    <updated>2022-01-27T00:17:07.435Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://coco-022.github.io/osmos-feed_design/index.html"/>
     <link rel="self" href="https://coco-022.github.io/osmos-feed_design/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[かわいい＆おしゃれ！商用OKな春向けデザイン素材が3,200円の大セール中]]></title>
+        <id>https://photoshopvip.net/?p=133170</id>
+        <link href="https://photoshopvip.net/133170"/>
+        <updated>2022-01-26T05:28:54.000Z</updated>
+        <summary type="html"><![CDATA[まだまだ寒い季節が続きますが、そろそろ春に向けたデザインの準備をしてみませんか。   季節の変わり目は、デザイン作成にも最適な季節。美しいパステルカラーや明るい配色を中心に、春をテーマにしたデザイ […]
+かわいい＆おしゃれ！商用OKな春向けデザイン素材が3,200円の大セール中はPhotoshopVIPで公開された投稿です。]]></summary>
+        <author>
+            <name>vipcrew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flexboxの最新テクニック！ メディアクエリはなし、同じCSSで4つの異なるレイアウトに対応したフォームを実装]]></title>
+        <id>https://coliss.com/?p=36280</id>
+        <link href="https://coliss.com/articles/build-websites/operation/css/4-layouts-form-used-flexbox.html"/>
+        <updated>2022-01-26T00:36:34.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2022年】デザインが映える！今どきのかわいい無料イラスト素材13選]]></title>
         <id>https://photoshopvip.net/?p=133153</id>
@@ -243,28 +264,6 @@ Adobe Fontで利用可能！オススメ英語フォント厳選ベスト40【20
         <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
         <author>
             <name>コリス🥦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【商用可＆新作】23万円相当のおしゃれ英語フォント160個、1書体20円の年末セール中]]></title>
-        <id>https://photoshopvip.net/?p=132850</id>
-        <link href="https://photoshopvip.net/132850"/>
-        <updated>2021-12-28T12:14:57.000Z</updated>
-        <summary type="html"><![CDATA[無料ダウンロードできるフリーフォントも充実していますが、プレミアムフォント最大のメリットは、その使い勝手の良さでしょう。   異なる太さ・ウェイトに対応し、合字リガチャや代替フォントによる柔軟なデ […]
-【商用可＆新作】23万円相当のおしゃれ英語フォント160個、1書体20円の年末セール中はPhotoshopVIPで公開された投稿です。]]></summary>
-        <author>
-            <name>vipcrew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[これがフロントエンドで話題になった記事！ ICS MEDIAの2021年]]></title>
-        <id>https://ics.media/entry/211228/</id>
-        <link href="https://ics.media/entry/211228/"/>
-        <updated>2021-12-27T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[記事は ics.media へアクセスしてご覧ください。
-記事を読む]]></summary>
-        <author>
-            <name>ICS MEDIA</name>
         </author>
     </entry>
 </feed>
