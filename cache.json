@@ -6,6 +6,15 @@
       "siteUrl": "https://ics.media/",
       "articles": [
         {
+          "id": "https://ics.media/entry/220126/",
+          "author": null,
+          "description": "記事は ics.media へアクセスしてご覧ください。\n記事を読む",
+          "link": "https://ics.media/entry/220126/",
+          "publishedOn": "2022-01-26T15:00:00.000Z",
+          "wordCount": 796,
+          "title": "HTML・CSSのおさらい! アイコンとテキストを横並びに配置する方法まとめ"
+        },
+        {
           "id": "https://ics.media/entry/220120/",
           "author": null,
           "description": "記事は ics.media へアクセスしてご覧ください。\n記事を読む",
@@ -21,6 +30,15 @@
       "feedUrl": "http://photoshopvip.net/feed",
       "siteUrl": "https://photoshopvip.net",
       "articles": [
+        {
+          "id": "https://photoshopvip.net/?p=133197",
+          "author": "vipcrew",
+          "description": "本格的なヴィンテージデザインを、ブラウザ上のシンプルな操作のみで作成できる新しいツール Heritage Designer。   今ならすべての機能が利用できる、有料Proプラン（15ドル/月）が […]\nヴィンテージ専用デザインツールHeritage Designer、今なら有料プランが3ヶ月無料にはPhotoshopVIPで公開された投稿です。",
+          "link": "https://photoshopvip.net/133197",
+          "publishedOn": "2022-01-27T05:37:21.000Z",
+          "wordCount": 187,
+          "title": "ヴィンテージ専用デザインツールHeritage Designer、今なら有料プランが3ヶ月無料に"
+        },
         {
           "id": "https://photoshopvip.net/?p=133170",
           "author": "vipcrew",
@@ -109,6 +127,15 @@
       "feedUrl": "http://coliss.com/feed",
       "siteUrl": "https://coliss.com",
       "articles": [
+        {
+          "id": "https://coliss.com/?p=36091",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/build-websites/operation/css/make-beautiful-gradients-in-css.html",
+          "publishedOn": "2022-01-27T00:36:55.000Z",
+          "wordCount": 435,
+          "title": "グラデーションの中央がグレーに濁ってしまう仕組みをくわしく解説、美しいグラデーションをCSSで実装する方法"
+        },
         {
           "id": "https://coliss.com/?p=36280",
           "author": "コリス🥦",
