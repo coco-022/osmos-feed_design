@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coco-022.github.io/osmos-feed_design/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-31T00:17:27.733Z</updated>
+    <updated>2022-02-01T00:17:40.526Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://coco-022.github.io/osmos-feed_design/index.html"/>
     <link rel="self" href="https://coco-022.github.io/osmos-feed_design/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[見逃せない高品質なおしゃれフリーフォント36個まとめ 2022年1月度]]></title>
+        <id>https://photoshopvip.net/?p=133235</id>
+        <link href="https://photoshopvip.net/133235"/>
+        <updated>2022-01-31T05:48:22.000Z</updated>
+        <summary type="html"><![CDATA[この記事では、最近公開された新作フリーフォント素材をまとめてご紹介します。   人気の高まっているヴィンテージ、レトロ系フォントから、美しい筆記体やナチュラル系手書きフォント、使い勝手の良い万能書 […]
+見逃せない高品質なおしゃれフリーフォント36個まとめ 2022年1月度はPhotoshopVIPで公開された投稿です。]]></summary>
+        <author>
+            <name>vipcrew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5日間限定！ Adobe Photoshopの解説書とPremiere Proの解説書が全文無料公開です！！]]></title>
+        <id>https://coliss.com/?p=36729</id>
+        <link href="https://coliss.com/articles/products/impress-yokubari-20210131.html"/>
+        <updated>2022-01-31T04:21:58.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSSの便利ツールが登場！ レスポンシブ対応のフォントサイズを超簡単に定義できる -Modern Fluid Typography Editor]]></title>
+        <id>https://coliss.com/?p=36517</id>
+        <link href="https://coliss.com/articles/build-websites/operation/css/css-modern-fluid-typography-editor.html"/>
+        <updated>2022-01-31T00:36:13.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[すべてのページが美しい！ こんなにもワクワクした配色本は初めて、デザインやイラストにぴったりな「配色パターンブック」]]></title>
         <id>https://coliss.com/?p=35750</id>
